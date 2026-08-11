@@ -1,0 +1,1401 @@
+client_id,commune,date_plainte,canal,type_plainte,statut,date_resolution
+CUST0001,M'Sila,2025-05-06,Appel Call Center,Facturation,Résolu,2025-05-10
+CUST0002,Bou Saâda,2025-12-13,Plainte Écrite,ADSL,Non Traité,
+CUST0003,M'Sila,2025-01-17,,Service Client,En Cours,
+CUST0004,M'Sila,2025-04-30,Appel Call Center,Fibre FTTH,Résolu,2025-05-09
+CUST0005,M'Sila,2025-11-29,Plainte Écrite,Fibre FTTH,Résolu,2025-12-11
+CUST0006,Ain El Hadjel,2025-10-29,Appel Call Center,Service Client,Résolu,2025-11-03
+CUST0007,M'Sila,2025-06-24,Appel Call Center,Service Client,Résolu,2025-06-29
+CUST0008,Bou Saâda,2025-02-22,Appel Call Center,Facturation,Non Traité,
+CUST0009,M'Sila,2025-07-03,,ADSL,En Cours,
+CUST0010,Sidi Aïssa,2025-01-23,Plainte Écrite,Facturation,En Cours,
+CUST0011,Ain El Hadjel,2025-07-13,Plainte Écrite,ADSL,Résolu,2025-07-15
+CUST0012,Sidi Aïssa,2025-07-05,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST0013,Bou Saâda,2025-01-24,Plainte Écrite,ADSL,En Cours,
+CUST0014,Bou Saâda,2025-04-30,Formulaire Web,ADSL,Résolu,2025-05-14
+CUST0015,M'Sila,2025-08-21,Formulaire Web,Facturation,Résolu,2025-09-01
+CUST0016,Sidi Aïssa,2025-07-01,Appel Call Center,Facturation,Résolu,2025-07-05
+CUST0017,Sidi Aïssa,2025-11-08,Plainte Écrite,ADSL,Résolu,2025-11-19
+CUST0018,Bou Saâda,2025-03-25,Plainte Écrite,Fibre FTTH,Résolu,2025-04-02
+CUST0019,Ain El Hadjel,2025-04-23,Formulaire Web,Interruption Réseau,Résolu,2025-05-04
+CUST0020,Sidi Aïssa,2025-01-17,Appel Call Center,Fibre FTTH,Résolu,2025-01-30
+CUST0021,Sidi Aïssa,2025-02-03,Formulaire Web,Facturation,En Cours,
+CUST0022,Bou Saâda,2025-04-19,Plainte Écrite,Facturation,Résolu,2025-04-30
+CUST0023,Ain El Hadjel,2025-03-15,Formulaire Web,Service Client,Résolu,2025-03-20
+CUST0024,Bou Saâda,2025-10-03,Appel Call Center,Interruption Réseau,Résolu,2025-10-08
+CUST0025,Ain El Hadjel,2025-07-05,Plainte Écrite,Service Client,Résolu,2025-07-09
+CUST0026,Bou Saâda,2025-02-16,Plainte Écrite,Service Client,En Cours,
+CUST0027,M'Sila,2025-11-18,,Fibre FTTH,Résolu,2025-11-21
+CUST0028,Ain El Hadjel,2025-07-17,Plainte Écrite,ADSL,Résolu,2025-07-24
+CUST0029,Ain El Hadjel,2025-10-11,Plainte Écrite,Facturation,Résolu,2025-10-25
+CUST0030,M'Sila,2025-12-16,Plainte Écrite,ADSL,Résolu,2025-12-25
+CUST0031,Sidi Aïssa,2025-02-27,Plainte Écrite,Facturation,En Cours,
+CUST0032,Sidi Aïssa,2025-08-21,Formulaire Web,Fibre FTTH,Résolu,2025-08-22
+CUST0033,Sidi Aïssa,2025-09-17,,Fibre FTTH,Résolu,2025-09-19
+CUST0034,Sidi Aïssa,2025-11-08,,Interruption Réseau,Non Traité,
+CUST0035,Bou Saâda,2025-03-24,Appel Call Center,Facturation,Non Traité,
+CUST0036,M'Sila,2025-09-08,Plainte Écrite,Facturation,En Cours,
+CUST0037,M'Sila,2025-06-07,Appel Call Center,Facturation,Résolu,2025-06-11
+CUST0038,M'Sila,2025-02-10,Appel Call Center,Interruption Réseau,Résolu,2025-02-12
+CUST0039,Ain El Hadjel,2025-03-06,Appel Call Center,Interruption Réseau,En Cours,
+CUST0040,Bou Saâda,2025-10-09,Plainte Écrite,Service Client,Résolu,2025-10-12
+CUST0041,Sidi Aïssa,2025-08-05,Plainte Écrite,Interruption Réseau,Résolu,2025-08-09
+CUST0042,Bou Saâda,2025-07-24,Plainte Écrite,Facturation,Résolu,2025-08-04
+CUST0043,Sidi Aïssa,2025-08-20,Formulaire Web,Interruption Réseau,Résolu,2025-08-22
+CUST0044,Bou Saâda,2025-06-23,Appel Call Center,ADSL,Non Traité,
+CUST0045,M'Sila,2025-04-28,Plainte Écrite,Interruption Réseau,Résolu,2025-05-08
+CUST0046,Bou Saâda,2025-12-29,Appel Call Center,ADSL,En Cours,
+CUST0047,M'Sila,2025-01-17,Appel Call Center,ADSL,Résolu,2025-01-31
+CUST0048,Sidi Aïssa,2025-05-02,Appel Call Center,Interruption Réseau,Résolu,2025-05-07
+CUST0049,Ain El Hadjel,2025-03-09,Appel Call Center,Interruption Réseau,Résolu,2025-03-21
+CUST0050,Ain El Hadjel,2025-07-28,Appel Call Center,Service Client,Résolu,2025-08-01
+CUST0051,M'Sila,2025-07-01,Appel Call Center,Service Client,Non Traité,
+CUST0052,Ain El Hadjel,2025-01-28,Formulaire Web,Service Client,En Cours,
+CUST0053,M'Sila,2025-06-23,Appel Call Center,Service Client,Non Traité,
+CUST0054,M'Sila,2025-04-08,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0055,Ain El Hadjel,2025-04-04,Appel Call Center,Service Client,Résolu,2025-04-09
+CUST0056,Ain El Hadjel,2025-08-15,Appel Call Center,ADSL,Non Traité,
+CUST0057,M'Sila,2025-01-08,Appel Call Center,Interruption Réseau,Résolu,2025-01-10
+CUST0058,Bou Saâda,2025-09-06,Appel Call Center,Service Client,Résolu,2025-09-14
+CUST0059,Bou Saâda,2025-03-26,Formulaire Web,ADSL,Résolu,2025-04-02
+CUST0060,M'Sila,2025-08-21,Formulaire Web,Facturation,Résolu,2025-08-26
+CUST0061,Ain El Hadjel,2025-12-05,Plainte Écrite,Interruption Réseau,Résolu,2025-12-17
+CUST0062,Ain El Hadjel,2025-06-01,Appel Call Center,Fibre FTTH,Résolu,2025-06-05
+CUST0063,M'Sila,2025-02-01,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0064,Sidi Aïssa,2025-10-27,Appel Call Center,ADSL,Résolu,2025-11-04
+CUST0065,Bou Saâda,2025-02-11,Appel Call Center,Interruption Réseau,Résolu,2025-02-25
+CUST0066,Bou Saâda,2025-02-04,Appel Call Center,Interruption Réseau,Résolu,2025-02-15
+CUST0067,Bou Saâda,2025-10-19,Formulaire Web,ADSL,Résolu,2025-10-23
+CUST0068,M'Sila,2025-08-03,Plainte Écrite,ADSL,En Cours,
+CUST0069,Sidi Aïssa,2025-12-09,Formulaire Web,Fibre FTTH,Résolu,2025-12-21
+CUST0070,Sidi Aïssa,2025-07-22,Appel Call Center,Facturation,Non Traité,
+CUST0071,Bou Saâda,2025-08-23,Plainte Écrite,Facturation,En Cours,
+CUST0072,Sidi Aïssa,2025-08-23,Appel Call Center,ADSL,Résolu,2025-09-02
+CUST0073,M'Sila,2025-04-20,Appel Call Center,Interruption Réseau,Résolu,2025-04-29
+CUST0074,Sidi Aïssa,2025-02-05,Appel Call Center,Facturation,En Cours,
+CUST0075,Bou Saâda,2025-03-22,Formulaire Web,Facturation,En Cours,
+CUST0076,Ain El Hadjel,2025-11-10,Plainte Écrite,Facturation,En Cours,
+CUST0077,M'Sila,2025-06-03,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0078,M'Sila,2025-03-01,Appel Call Center,Facturation,Résolu,2025-03-03
+CUST0079,Bou Saâda,2025-11-06,Formulaire Web,Facturation,Résolu,2025-11-10
+CUST0080,Sidi Aïssa,2025-09-16,Appel Call Center,Facturation,Résolu,2025-09-24
+CUST0081,Sidi Aïssa,2025-11-21,Appel Call Center,ADSL,Non Traité,
+CUST0082,Ain El Hadjel,2025-01-02,Formulaire Web,ADSL,En Cours,
+CUST0083,Sidi Aïssa,2025-03-24,Appel Call Center,Facturation,Résolu,2025-04-05
+CUST0084,Ain El Hadjel,2025-10-15,Plainte Écrite,Service Client,Résolu,2025-10-16
+CUST0085,M'Sila,2025-10-07,Appel Call Center,Fibre FTTH,Résolu,2025-10-08
+CUST0086,Sidi Aïssa,2025-03-17,Plainte Écrite,Interruption Réseau,Résolu,2025-03-24
+CUST0087,Bou Saâda,2025-07-06,Appel Call Center,Facturation,En Cours,
+CUST0088,M'Sila,2025-12-16,Formulaire Web,Fibre FTTH,En Cours,
+CUST0089,Bou Saâda,2025-07-01,Plainte Écrite,ADSL,Non Traité,
+CUST0090,Ain El Hadjel,2025-05-02,Plainte Écrite,Fibre FTTH,Résolu,2025-05-16
+CUST0091,Bou Saâda,2025-01-13,Appel Call Center,Service Client,Résolu,2025-01-16
+CUST0092,Sidi Aïssa,2025-05-17,Formulaire Web,Fibre FTTH,En Cours,
+CUST0093,Bou Saâda,2025-07-15,Plainte Écrite,ADSL,En Cours,
+CUST0094,M'Sila,2025-04-13,Formulaire Web,Fibre FTTH,Résolu,2025-04-27
+CUST0095,Ain El Hadjel,2025-04-27,Formulaire Web,Facturation,En Cours,
+CUST0096,Bou Saâda,2025-07-24,Appel Call Center,Fibre FTTH,Résolu,2025-07-30
+CUST0097,Sidi Aïssa,2025-06-29,Appel Call Center,Facturation,Résolu,2025-07-10
+CUST0098,Ain El Hadjel,2025-06-19,Plainte Écrite,Interruption Réseau,Résolu,2025-06-20
+CUST0099,M'Sila,2025-10-25,Formulaire Web,Fibre FTTH,Résolu,2025-10-30
+CUST0100,M'Sila,2025-08-11,Appel Call Center,Interruption Réseau,Résolu,2025-08-17
+CUST0101,Sidi Aïssa,2025-09-19,Formulaire Web,Interruption Réseau,Résolu,2025-09-21
+CUST0102,Ain El Hadjel,2025-05-11,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0103,M'Sila,2025-01-01,Plainte Écrite,Service Client,Résolu,2025-01-10
+CUST0104,Bou Saâda,2025-02-05,Formulaire Web,Service Client,Résolu,2025-02-16
+CUST0105,Sidi Aïssa,2025-12-06,Plainte Écrite,Facturation,Non Traité,
+CUST0106,M'Sila,2025-09-17,Plainte Écrite,Facturation,Résolu,2025-09-22
+CUST0107,Ain El Hadjel,2025-12-23,Formulaire Web,Service Client,Résolu,2025-12-28
+CUST0108,Bou Saâda,2025-12-07,Appel Call Center,Service Client,En Cours,
+CUST0109,Ain El Hadjel,2025-11-12,Plainte Écrite,Fibre FTTH,Résolu,2025-11-22
+CUST0110,Sidi Aïssa,2025-01-01,Formulaire Web,Interruption Réseau,Résolu,2025-01-06
+CUST0111,Sidi Aïssa,2025-10-24,Appel Call Center,Service Client,Résolu,2025-11-03
+CUST0112,Sidi Aïssa,2025-08-15,Formulaire Web,Service Client,Résolu,2025-08-26
+CUST0113,Bou Saâda,2025-03-28,Plainte Écrite,Service Client,Non Traité,
+CUST0114,M'Sila,2025-12-06,Formulaire Web,Interruption Réseau,En Cours,
+CUST0115,Sidi Aïssa,2025-12-11,Appel Call Center,Fibre FTTH,En Cours,
+CUST0116,Sidi Aïssa,2025-03-17,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0117,M'Sila,2025-09-01,Appel Call Center,Fibre FTTH,En Cours,
+CUST0118,M'Sila,2025-11-19,Formulaire Web,Service Client,Résolu,2025-11-29
+CUST0119,Bou Saâda,2025-09-11,Plainte Écrite,Service Client,Non Traité,
+CUST0120,Ain El Hadjel,2025-12-02,Appel Call Center,Fibre FTTH,Résolu,2025-12-14
+CUST0121,M'Sila,2025-04-23,,Service Client,En Cours,
+CUST0122,Bou Saâda,2025-08-26,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST0123,M'Sila,2025-03-04,Plainte Écrite,Fibre FTTH,Résolu,2025-03-12
+CUST0124,Bou Saâda,2025-10-14,Formulaire Web,Interruption Réseau,Résolu,2025-10-24
+CUST0125,Sidi Aïssa,2025-09-16,Formulaire Web,Interruption Réseau,Résolu,2025-09-23
+CUST0126,Ain El Hadjel,2025-08-19,Appel Call Center,Service Client,Résolu,2025-08-24
+CUST0127,Bou Saâda,2025-09-24,Plainte Écrite,Facturation,En Cours,
+CUST0128,Ain El Hadjel,2025-05-21,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST0129,Ain El Hadjel,2025-05-01,Appel Call Center,Facturation,Résolu,2025-05-06
+CUST0130,Sidi Aïssa,2025-02-11,Formulaire Web,Interruption Réseau,Résolu,2025-02-14
+CUST0131,Bou Saâda,2025-12-22,Appel Call Center,Service Client,Résolu,2025-12-25
+CUST0132,Bou Saâda,2025-07-28,Appel Call Center,Service Client,Résolu,2025-08-03
+CUST0133,Ain El Hadjel,2025-04-16,Formulaire Web,ADSL,Résolu,2025-04-30
+CUST0134,Ain El Hadjel,2025-12-23,Formulaire Web,Interruption Réseau,Résolu,2025-12-24
+CUST0135,Ain El Hadjel,2025-06-30,Formulaire Web,ADSL,Non Traité,
+CUST0136,Sidi Aïssa,2025-10-03,Formulaire Web,Service Client,Résolu,2025-10-15
+CUST0137,Bou Saâda,2025-05-20,Formulaire Web,Fibre FTTH,Résolu,2025-05-27
+CUST0138,Ain El Hadjel,2025-06-22,Appel Call Center,Service Client,En Cours,
+CUST0139,Ain El Hadjel,2025-08-28,Plainte Écrite,Fibre FTTH,Résolu,2025-08-31
+CUST0140,M'Sila,2025-10-16,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0141,M'Sila,2025-03-11,Appel Call Center,Service Client,Non Traité,
+CUST0142,Ain El Hadjel,2025-05-14,Appel Call Center,ADSL,Résolu,2025-05-21
+CUST0143,Sidi Aïssa,2025-06-17,Appel Call Center,Service Client,Résolu,2025-06-23
+CUST0144,Ain El Hadjel,2025-05-10,Formulaire Web,Service Client,Résolu,2025-05-24
+CUST0145,M'Sila,2025-10-04,Formulaire Web,ADSL,Résolu,2025-10-05
+CUST0146,Sidi Aïssa,2025-11-30,Appel Call Center,ADSL,Résolu,2025-12-01
+CUST0147,M'Sila,2025-01-11,Appel Call Center,Fibre FTTH,En Cours,
+CUST0148,Bou Saâda,2025-08-31,Appel Call Center,Fibre FTTH,Résolu,2025-09-11
+CUST0149,M'Sila,2025-08-27,Plainte Écrite,Fibre FTTH,Résolu,2025-09-08
+CUST0150,Sidi Aïssa,2025-11-07,Formulaire Web,Fibre FTTH,Résolu,2025-11-17
+CUST0151,M'Sila,2025-02-25,,Facturation,Non Traité,
+CUST0152,M'Sila,2025-12-13,Formulaire Web,Interruption Réseau,Résolu,2025-12-20
+CUST0153,Ain El Hadjel,2025-02-08,Plainte Écrite,Fibre FTTH,Résolu,2025-02-18
+CUST0154,Bou Saâda,2025-12-17,Appel Call Center,Facturation,Résolu,2025-12-27
+CUST0155,M'Sila,2025-06-27,Plainte Écrite,ADSL,Non Traité,
+CUST0156,Ain El Hadjel,2025-02-05,Plainte Écrite,Facturation,Résolu,2025-02-14
+CUST0157,Sidi Aïssa,2025-09-08,Appel Call Center,Service Client,En Cours,
+CUST0158,M'Sila,2025-11-22,Formulaire Web,Facturation,En Cours,
+CUST0159,Ain El Hadjel,2025-08-11,Plainte Écrite,Fibre FTTH,Résolu,2025-08-14
+CUST0160,Sidi Aïssa,2025-09-05,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0161,Ain El Hadjel,2025-05-18,Formulaire Web,Interruption Réseau,Résolu,2025-05-24
+CUST0162,Bou Saâda,2025-08-19,Appel Call Center,Facturation,En Cours,
+CUST0163,Bou Saâda,2025-11-09,Formulaire Web,Interruption Réseau,En Cours,
+CUST0164,Ain El Hadjel,2025-09-11,Formulaire Web,ADSL,Résolu,2025-09-25
+CUST0165,Sidi Aïssa,2025-04-19,Appel Call Center,Service Client,Résolu,2025-04-25
+CUST0166,Sidi Aïssa,2025-11-02,Formulaire Web,Facturation,En Cours,
+CUST0167,Sidi Aïssa,2025-09-22,Plainte Écrite,ADSL,Résolu,2025-09-26
+CUST0168,M'Sila,2025-09-08,Appel Call Center,Service Client,Résolu,2025-09-17
+CUST0169,Bou Saâda,2025-11-27,Plainte Écrite,Service Client,Résolu,2025-12-09
+CUST0170,Ain El Hadjel,2025-02-17,Formulaire Web,ADSL,Résolu,2025-02-22
+CUST0171,Bou Saâda,2025-06-06,,Fibre FTTH,En Cours,
+CUST0172,Sidi Aïssa,2025-09-29,Formulaire Web,Interruption Réseau,Résolu,2025-10-05
+CUST0173,Ain El Hadjel,2025-06-19,Plainte Écrite,Interruption Réseau,Résolu,2025-06-25
+CUST0174,Ain El Hadjel,2025-05-09,Formulaire Web,Facturation,Résolu,2025-05-13
+CUST0175,M'Sila,2025-06-11,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0176,M'Sila,2025-12-20,Plainte Écrite,Interruption Réseau,Résolu,2025-12-23
+CUST0177,Bou Saâda,2025-05-22,Appel Call Center,Service Client,En Cours,
+CUST0178,Sidi Aïssa,2025-06-01,Appel Call Center,Fibre FTTH,Résolu,2025-06-05
+CUST0179,Sidi Aïssa,2025-01-08,Appel Call Center,Facturation,Non Traité,
+CUST0180,Bou Saâda,2025-01-28,Formulaire Web,ADSL,Résolu,2025-02-06
+CUST0181,Sidi Aïssa,2025-11-23,Plainte Écrite,Fibre FTTH,Résolu,2025-12-07
+CUST0182,Ain El Hadjel,2025-10-21,Appel Call Center,ADSL,Résolu,2025-10-26
+CUST0183,Ain El Hadjel,2025-06-24,Formulaire Web,Service Client,Non Traité,
+CUST0184,Bou Saâda,2025-09-02,,Facturation,Non Traité,
+CUST0185,M'Sila,2025-09-09,,Service Client,Résolu,2025-09-11
+CUST0186,M'Sila,2025-10-16,Appel Call Center,Fibre FTTH,En Cours,
+CUST0187,Sidi Aïssa,2025-03-02,,Fibre FTTH,En Cours,
+CUST0188,Ain El Hadjel,2025-11-13,Plainte Écrite,Interruption Réseau,Résolu,2025-11-17
+CUST0189,Ain El Hadjel,2025-06-02,Formulaire Web,Service Client,Résolu,2025-06-16
+CUST0190,Ain El Hadjel,2025-11-14,Formulaire Web,Interruption Réseau,Résolu,2025-11-15
+CUST0191,M'Sila,2025-05-16,Appel Call Center,Fibre FTTH,Résolu,2025-05-27
+CUST0192,M'Sila,2025-03-30,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0193,M'Sila,2025-07-29,Appel Call Center,ADSL,Non Traité,
+CUST0194,Ain El Hadjel,2025-08-29,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0195,Sidi Aïssa,2025-05-28,Appel Call Center,Fibre FTTH,Résolu,2025-06-09
+CUST0196,Sidi Aïssa,2025-02-06,Plainte Écrite,Service Client,Résolu,2025-02-17
+CUST0197,Bou Saâda,2025-12-05,Formulaire Web,Interruption Réseau,En Cours,
+CUST0198,Bou Saâda,2025-10-06,Formulaire Web,ADSL,Non Traité,
+CUST0199,Bou Saâda,2025-05-17,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST0200,Bou Saâda,2025-03-26,Appel Call Center,ADSL,En Cours,
+CUST0201,Sidi Aïssa,2025-05-28,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0202,Ain El Hadjel,2025-12-19,Appel Call Center,Service Client,Résolu,2025-12-24
+CUST0203,Ain El Hadjel,2025-10-04,Formulaire Web,Interruption Réseau,Résolu,2025-10-12
+CUST0204,Ain El Hadjel,2025-01-21,Appel Call Center,Interruption Réseau,Non Traité,
+CUST0205,Ain El Hadjel,2025-11-06,Plainte Écrite,Facturation,En Cours,
+CUST0206,Sidi Aïssa,2025-04-28,Appel Call Center,ADSL,Résolu,2025-05-09
+CUST0207,M'Sila,2025-10-23,Plainte Écrite,Facturation,Résolu,2025-10-24
+CUST0208,Bou Saâda,2025-11-30,Formulaire Web,Interruption Réseau,En Cours,
+CUST0209,Ain El Hadjel,2025-10-27,Formulaire Web,Fibre FTTH,Résolu,2025-11-03
+CUST0210,Ain El Hadjel,2025-06-28,Appel Call Center,Service Client,Résolu,2025-07-05
+CUST0211,Sidi Aïssa,2025-03-24,Formulaire Web,ADSL,Résolu,2025-03-30
+CUST0212,Ain El Hadjel,2025-05-28,,Service Client,En Cours,
+CUST0213,Ain El Hadjel,2025-08-21,Plainte Écrite,ADSL,En Cours,
+CUST0214,M'Sila,2025-06-15,Formulaire Web,Facturation,Résolu,2025-06-17
+CUST0215,Ain El Hadjel,2025-12-03,Plainte Écrite,ADSL,En Cours,
+CUST0216,Ain El Hadjel,2025-04-07,Formulaire Web,ADSL,Résolu,2025-04-16
+CUST0217,Sidi Aïssa,2025-11-17,Plainte Écrite,Service Client,Résolu,2025-11-25
+CUST0218,M'Sila,2025-10-09,Appel Call Center,Facturation,En Cours,
+CUST0219,Bou Saâda,2025-12-24,Formulaire Web,Service Client,En Cours,
+CUST0220,Ain El Hadjel,2025-11-19,Appel Call Center,ADSL,En Cours,
+CUST0221,Bou Saâda,2025-06-09,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0222,M'Sila,2025-02-17,Plainte Écrite,Service Client,Résolu,2025-02-21
+CUST0223,M'Sila,2025-11-28,Formulaire Web,ADSL,Résolu,2025-12-12
+CUST0224,Bou Saâda,2025-09-18,Formulaire Web,Facturation,Résolu,2025-09-30
+CUST0225,Sidi Aïssa,2025-08-30,Formulaire Web,Service Client,Résolu,2025-09-03
+CUST0226,Ain El Hadjel,2025-07-16,Plainte Écrite,Fibre FTTH,Résolu,2025-07-20
+CUST0227,Bou Saâda,2025-08-01,Appel Call Center,Facturation,Non Traité,
+CUST0228,Sidi Aïssa,2025-01-02,Plainte Écrite,Facturation,Résolu,2025-01-07
+CUST0229,Sidi Aïssa,2025-12-04,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST0230,Ain El Hadjel,2025-10-03,,Service Client,En Cours,
+CUST0231,Ain El Hadjel,2025-10-10,Formulaire Web,Facturation,En Cours,
+CUST0232,Ain El Hadjel,2025-04-07,Formulaire Web,Facturation,Résolu,2025-04-19
+CUST0233,Bou Saâda,2025-04-30,Plainte Écrite,Service Client,Résolu,2025-05-14
+CUST0234,Ain El Hadjel,2025-08-31,Appel Call Center,Facturation,Résolu,2025-09-12
+CUST0235,Ain El Hadjel,2025-09-11,Formulaire Web,Fibre FTTH,Résolu,2025-09-12
+CUST0236,Bou Saâda,2025-06-19,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0237,M'Sila,2025-09-27,Formulaire Web,ADSL,Résolu,2025-10-05
+CUST0238,M'Sila,2025-07-29,Plainte Écrite,Fibre FTTH,Résolu,2025-08-12
+CUST0239,Bou Saâda,2025-05-16,Appel Call Center,Service Client,En Cours,
+CUST0240,Sidi Aïssa,2025-11-29,Plainte Écrite,Service Client,Résolu,2025-12-01
+CUST0241,Sidi Aïssa,2025-07-14,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST0242,Sidi Aïssa,2025-10-05,Plainte Écrite,Service Client,Non Traité,
+CUST0243,M'Sila,2025-05-01,Plainte Écrite,ADSL,Non Traité,
+CUST0244,Sidi Aïssa,2025-08-11,Appel Call Center,ADSL,Résolu,2025-08-13
+CUST0245,M'Sila,2025-12-22,Formulaire Web,Fibre FTTH,Résolu,2025-12-27
+CUST0246,M'Sila,2025-01-29,Appel Call Center,Facturation,Non Traité,
+CUST0247,Sidi Aïssa,2025-08-09,Formulaire Web,Facturation,Résolu,2025-08-12
+CUST0248,Bou Saâda,2025-10-17,Plainte Écrite,Service Client,Non Traité,
+CUST0249,Bou Saâda,2025-02-10,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0250,Ain El Hadjel,2025-09-12,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST0251,Bou Saâda,2025-11-23,Appel Call Center,Service Client,Résolu,2025-11-28
+CUST0252,Ain El Hadjel,2025-08-27,Formulaire Web,ADSL,Résolu,2025-09-01
+CUST0253,Bou Saâda,2025-06-26,Appel Call Center,Service Client,Non Traité,
+CUST0254,Sidi Aïssa,2025-12-20,Plainte Écrite,Service Client,Résolu,2025-12-25
+CUST0255,Ain El Hadjel,2025-07-16,Formulaire Web,Fibre FTTH,Résolu,2025-07-30
+CUST0256,Ain El Hadjel,2025-07-15,Appel Call Center,Fibre FTTH,Résolu,2025-07-25
+CUST0257,Sidi Aïssa,2025-12-25,Plainte Écrite,Facturation,Non Traité,
+CUST0258,Sidi Aïssa,2025-05-21,Appel Call Center,Service Client,En Cours,
+CUST0259,M'Sila,2025-11-07,Plainte Écrite,ADSL,Résolu,2025-11-19
+CUST0260,Ain El Hadjel,2025-11-07,Formulaire Web,Fibre FTTH,Résolu,2025-11-20
+CUST0261,Sidi Aïssa,2025-11-14,Appel Call Center,Fibre FTTH,En Cours,
+CUST0262,Sidi Aïssa,2025-11-18,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST0263,M'Sila,2025-06-08,Plainte Écrite,ADSL,Résolu,2025-06-21
+CUST0264,Ain El Hadjel,2025-07-06,Appel Call Center,Interruption Réseau,Résolu,2025-07-18
+CUST0265,Bou Saâda,2025-06-17,Appel Call Center,Facturation,Non Traité,
+CUST0266,Ain El Hadjel,2025-03-09,Appel Call Center,Fibre FTTH,En Cours,
+CUST0267,Sidi Aïssa,2025-05-20,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0268,Bou Saâda,2025-06-01,Formulaire Web,Service Client,En Cours,
+CUST0269,Sidi Aïssa,2025-02-08,Appel Call Center,Service Client,Résolu,2025-02-11
+CUST0270,Bou Saâda,2025-10-13,Plainte Écrite,Service Client,Résolu,2025-10-19
+CUST0271,M'Sila,2025-05-16,,ADSL,En Cours,
+CUST0272,M'Sila,2025-12-11,Formulaire Web,Facturation,En Cours,
+CUST0273,Sidi Aïssa,2025-11-23,Plainte Écrite,Service Client,Non Traité,
+CUST0274,Sidi Aïssa,2025-08-30,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0275,M'Sila,2025-06-17,Plainte Écrite,Interruption Réseau,Résolu,2025-06-27
+CUST0276,Bou Saâda,2025-11-22,Plainte Écrite,ADSL,Résolu,2025-12-06
+CUST0277,Ain El Hadjel,2025-11-29,Plainte Écrite,Facturation,En Cours,
+CUST0278,Ain El Hadjel,2025-01-24,Appel Call Center,Fibre FTTH,En Cours,
+CUST0279,M'Sila,2025-03-01,Formulaire Web,Service Client,En Cours,
+CUST0280,M'Sila,2025-03-11,Appel Call Center,Interruption Réseau,En Cours,
+CUST0281,Ain El Hadjel,2025-12-10,Formulaire Web,Facturation,Non Traité,
+CUST0282,Ain El Hadjel,2025-08-01,Plainte Écrite,Fibre FTTH,Résolu,2025-08-12
+CUST0283,M'Sila,2025-07-28,Formulaire Web,Interruption Réseau,Résolu,2025-08-02
+CUST0284,M'Sila,2025-04-22,Plainte Écrite,Facturation,Résolu,2025-04-30
+CUST0285,Ain El Hadjel,2025-02-20,Appel Call Center,Facturation,Résolu,2025-03-03
+CUST0286,Sidi Aïssa,2025-02-01,Plainte Écrite,Facturation,Résolu,2025-02-08
+CUST0287,Sidi Aïssa,2025-08-21,Appel Call Center,ADSL,Résolu,2025-08-23
+CUST0288,Bou Saâda,2025-01-11,Plainte Écrite,Interruption Réseau,Résolu,2025-01-12
+CUST0289,Sidi Aïssa,2025-10-17,Appel Call Center,Fibre FTTH,Résolu,2025-10-21
+CUST0290,M'Sila,2025-10-28,Plainte Écrite,Fibre FTTH,Résolu,2025-11-01
+CUST0291,Bou Saâda,2025-11-02,Formulaire Web,Fibre FTTH,Résolu,2025-11-03
+CUST0292,Sidi Aïssa,2025-10-04,Appel Call Center,Fibre FTTH,Résolu,2025-10-09
+CUST0293,Bou Saâda,2025-03-09,Appel Call Center,ADSL,En Cours,
+CUST0294,M'Sila,2025-10-29,Formulaire Web,Fibre FTTH,Résolu,2025-11-04
+CUST0295,M'Sila,2025-01-27,Appel Call Center,Facturation,Résolu,2025-01-30
+CUST0296,Ain El Hadjel,2025-02-02,Plainte Écrite,ADSL,Résolu,2025-02-10
+CUST0297,Ain El Hadjel,2025-10-31,Formulaire Web,Interruption Réseau,En Cours,
+CUST0298,M'Sila,2025-04-24,Formulaire Web,Interruption Réseau,Résolu,2025-05-04
+CUST0299,M'Sila,2025-06-04,,Interruption Réseau,En Cours,
+CUST0300,Ain El Hadjel,2025-02-01,Plainte Écrite,ADSL,Résolu,2025-02-09
+CUST0301,Ain El Hadjel,2025-09-09,Formulaire Web,ADSL,Résolu,2025-09-21
+CUST0302,Ain El Hadjel,2025-06-14,Appel Call Center,ADSL,Résolu,2025-06-24
+CUST0303,Bou Saâda,2025-05-21,Appel Call Center,Fibre FTTH,Résolu,2025-05-31
+CUST0304,Sidi Aïssa,2025-09-29,Formulaire Web,Interruption Réseau,En Cours,
+CUST0305,Sidi Aïssa,2025-11-06,Formulaire Web,Interruption Réseau,En Cours,
+CUST0306,Ain El Hadjel,2025-12-02,Appel Call Center,ADSL,Non Traité,
+CUST0307,Bou Saâda,2025-04-27,Formulaire Web,Service Client,Résolu,2025-05-04
+CUST0308,Sidi Aïssa,2025-08-01,Formulaire Web,Service Client,Résolu,2025-08-13
+CUST0309,M'Sila,2025-06-10,Formulaire Web,Service Client,En Cours,
+CUST0310,Sidi Aïssa,2025-12-18,Formulaire Web,Fibre FTTH,Résolu,2025-12-26
+CUST0311,M'Sila,2025-02-17,Appel Call Center,ADSL,Résolu,2025-02-24
+CUST0312,M'Sila,2025-03-08,Plainte Écrite,Facturation,Résolu,2025-03-17
+CUST0313,M'Sila,2025-10-15,Plainte Écrite,Interruption Réseau,Résolu,2025-10-21
+CUST0314,M'Sila,2025-12-07,Formulaire Web,Facturation,Non Traité,
+CUST0315,Ain El Hadjel,2025-05-28,Plainte Écrite,ADSL,En Cours,
+CUST0316,Sidi Aïssa,2025-10-23,Formulaire Web,ADSL,En Cours,
+CUST0317,Bou Saâda,2025-04-25,,Service Client,Résolu,2025-05-09
+CUST0318,M'Sila,2025-07-08,Formulaire Web,Interruption Réseau,Résolu,2025-07-10
+CUST0319,Sidi Aïssa,2025-08-08,Plainte Écrite,Fibre FTTH,Résolu,2025-08-22
+CUST0320,M'Sila,2025-01-15,Plainte Écrite,Facturation,Résolu,2025-01-18
+CUST0321,Sidi Aïssa,2025-06-23,Plainte Écrite,Facturation,Résolu,2025-06-29
+CUST0322,M'Sila,2025-10-17,Appel Call Center,Fibre FTTH,En Cours,
+CUST0323,Ain El Hadjel,2025-11-21,,Fibre FTTH,En Cours,
+CUST0324,M'Sila,2025-04-21,Appel Call Center,Interruption Réseau,Résolu,2025-04-28
+CUST0325,Ain El Hadjel,2025-03-22,Formulaire Web,Facturation,Non Traité,
+CUST0326,Sidi Aïssa,2025-10-18,Formulaire Web,Facturation,En Cours,
+CUST0327,M'Sila,2025-03-22,Appel Call Center,Fibre FTTH,Résolu,2025-04-04
+CUST0328,M'Sila,2025-05-20,,ADSL,En Cours,
+CUST0329,Ain El Hadjel,2025-09-06,Plainte Écrite,Service Client,Résolu,2025-09-16
+CUST0330,Ain El Hadjel,2025-04-21,Formulaire Web,Facturation,Résolu,2025-05-04
+CUST0331,M'Sila,2025-02-26,,Service Client,Résolu,2025-03-03
+CUST0332,Ain El Hadjel,2025-01-24,Plainte Écrite,Facturation,En Cours,
+CUST0333,Bou Saâda,2025-01-29,Formulaire Web,Interruption Réseau,Résolu,2025-01-30
+CUST0334,Bou Saâda,2025-03-12,Formulaire Web,Fibre FTTH,Résolu,2025-03-25
+CUST0335,Sidi Aïssa,2025-03-03,Formulaire Web,Facturation,Résolu,2025-03-04
+CUST0336,Ain El Hadjel,2025-03-31,Plainte Écrite,Service Client,Résolu,2025-04-03
+CUST0337,Ain El Hadjel,2025-09-14,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST0338,Sidi Aïssa,2025-01-22,Appel Call Center,Service Client,En Cours,
+CUST0339,Ain El Hadjel,2025-02-09,Appel Call Center,Service Client,Résolu,2025-02-23
+CUST0340,Sidi Aïssa,2025-10-21,Plainte Écrite,Service Client,Résolu,2025-10-28
+CUST0341,Ain El Hadjel,2025-07-27,Formulaire Web,ADSL,Résolu,2025-07-28
+CUST0342,Sidi Aïssa,2025-08-24,Appel Call Center,Interruption Réseau,Résolu,2025-09-07
+CUST0343,Sidi Aïssa,2025-02-24,Appel Call Center,Service Client,Résolu,2025-02-28
+CUST0344,Ain El Hadjel,2025-09-26,Plainte Écrite,Service Client,Résolu,2025-09-28
+CUST0345,Ain El Hadjel,2025-04-24,Formulaire Web,Facturation,Résolu,2025-04-30
+CUST0346,Bou Saâda,2025-11-21,Appel Call Center,Interruption Réseau,En Cours,
+CUST0347,M'Sila,2025-04-10,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0348,Sidi Aïssa,2025-05-01,Formulaire Web,Fibre FTTH,Résolu,2025-05-03
+CUST0349,Bou Saâda,2025-03-30,Formulaire Web,Fibre FTTH,Résolu,2025-04-09
+CUST0350,Bou Saâda,2025-04-01,Plainte Écrite,ADSL,En Cours,
+CUST0351,Ain El Hadjel,2025-10-24,Formulaire Web,Interruption Réseau,Résolu,2025-11-01
+CUST0352,Sidi Aïssa,2025-03-19,,Facturation,Non Traité,
+CUST0353,Ain El Hadjel,2025-08-15,Appel Call Center,Service Client,En Cours,
+CUST0354,Sidi Aïssa,2025-01-29,Formulaire Web,Interruption Réseau,Résolu,2025-02-04
+CUST0355,M'Sila,2025-08-20,Formulaire Web,Service Client,Résolu,2025-08-21
+CUST0356,M'Sila,2025-02-09,Formulaire Web,Facturation,En Cours,
+CUST0357,M'Sila,2025-09-17,Plainte Écrite,Interruption Réseau,Résolu,2025-09-24
+CUST0358,Ain El Hadjel,2025-01-22,Plainte Écrite,Interruption Réseau,Résolu,2025-01-30
+CUST0359,Bou Saâda,2025-09-01,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0360,Bou Saâda,2025-02-22,Appel Call Center,Service Client,Résolu,2025-03-07
+CUST0361,Sidi Aïssa,2025-09-16,Plainte Écrite,ADSL,Résolu,2025-09-27
+CUST0362,Bou Saâda,2025-12-29,Appel Call Center,Fibre FTTH,En Cours,
+CUST0363,Ain El Hadjel,2025-09-25,Formulaire Web,Interruption Réseau,Résolu,2025-10-05
+CUST0364,Bou Saâda,2025-05-25,Formulaire Web,Facturation,Résolu,2025-06-01
+CUST0365,Ain El Hadjel,2025-01-27,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0366,Sidi Aïssa,2025-02-18,Appel Call Center,Facturation,Résolu,2025-02-27
+CUST0367,Ain El Hadjel,2025-12-03,Formulaire Web,Facturation,Non Traité,
+CUST0368,Bou Saâda,2025-10-26,Formulaire Web,ADSL,Non Traité,
+CUST0369,Bou Saâda,2025-12-02,Formulaire Web,Facturation,Résolu,2025-12-14
+CUST0370,Ain El Hadjel,2025-12-29,Appel Call Center,Interruption Réseau,Résolu,2025-12-31
+CUST0371,Sidi Aïssa,2025-11-26,Plainte Écrite,Service Client,Résolu,2025-12-09
+CUST0372,Sidi Aïssa,2025-02-17,Appel Call Center,Interruption Réseau,Résolu,2025-02-28
+CUST0373,Ain El Hadjel,2025-01-10,Plainte Écrite,Facturation,Résolu,2025-01-16
+CUST0374,Sidi Aïssa,2025-06-24,Appel Call Center,Fibre FTTH,En Cours,
+CUST0375,Ain El Hadjel,2025-03-12,Appel Call Center,Fibre FTTH,Résolu,2025-03-15
+CUST0376,M'Sila,2025-09-17,Formulaire Web,ADSL,Résolu,2025-09-30
+CUST0377,M'Sila,2025-11-13,Plainte Écrite,Facturation,En Cours,
+CUST0378,Bou Saâda,2025-03-20,Plainte Écrite,Service Client,Résolu,2025-03-23
+CUST0379,Bou Saâda,2025-03-26,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0380,Ain El Hadjel,2025-07-06,Appel Call Center,Service Client,Résolu,2025-07-17
+CUST0381,Bou Saâda,2025-05-26,Formulaire Web,Interruption Réseau,Résolu,2025-06-08
+CUST0382,Ain El Hadjel,2025-05-03,Appel Call Center,Interruption Réseau,En Cours,
+CUST0383,Sidi Aïssa,2025-07-08,Formulaire Web,Fibre FTTH,En Cours,
+CUST0384,Ain El Hadjel,2025-07-15,Formulaire Web,Facturation,Non Traité,
+CUST0385,Ain El Hadjel,2025-11-06,Appel Call Center,Fibre FTTH,En Cours,
+CUST0386,Bou Saâda,2025-11-25,Formulaire Web,ADSL,En Cours,
+CUST0387,Ain El Hadjel,2025-02-22,Formulaire Web,Interruption Réseau,Résolu,2025-03-06
+CUST0388,M'Sila,2025-03-24,Formulaire Web,ADSL,Résolu,2025-03-29
+CUST0389,Ain El Hadjel,2025-08-12,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0390,M'Sila,2025-06-28,Appel Call Center,Service Client,En Cours,
+CUST0391,M'Sila,2025-07-22,Formulaire Web,ADSL,Non Traité,
+CUST0392,Sidi Aïssa,2025-02-11,,Service Client,Résolu,2025-02-17
+CUST0393,Bou Saâda,2025-02-20,Appel Call Center,Facturation,Résolu,2025-03-06
+CUST0394,Sidi Aïssa,2025-01-20,Appel Call Center,Fibre FTTH,En Cours,
+CUST0395,Sidi Aïssa,2025-12-28,Formulaire Web,Fibre FTTH,Résolu,2025-12-31
+CUST0396,Ain El Hadjel,2025-02-10,,ADSL,Non Traité,
+CUST0397,M'Sila,2025-03-18,Formulaire Web,Fibre FTTH,Non Traité,
+CUST0398,Ain El Hadjel,2025-05-02,Appel Call Center,Facturation,Résolu,2025-05-07
+CUST0399,M'Sila,2025-08-03,Appel Call Center,Fibre FTTH,En Cours,
+CUST0400,Ain El Hadjel,2025-09-13,Appel Call Center,ADSL,En Cours,
+CUST0401,M'Sila,2025-10-22,Plainte Écrite,Interruption Réseau,Résolu,2025-10-26
+CUST0402,Bou Saâda,2025-01-01,Formulaire Web,Service Client,Non Traité,
+CUST0403,Sidi Aïssa,2025-08-02,Appel Call Center,Interruption Réseau,Résolu,2025-08-05
+CUST0404,M'Sila,2025-02-04,Plainte Écrite,Facturation,En Cours,
+CUST0405,M'Sila,2025-01-23,Formulaire Web,Service Client,Résolu,2025-02-03
+CUST0406,Ain El Hadjel,2025-01-09,Formulaire Web,Facturation,Non Traité,
+CUST0407,Sidi Aïssa,2025-05-04,Appel Call Center,Facturation,Résolu,2025-05-16
+CUST0408,M'Sila,2025-03-10,Plainte Écrite,Facturation,Résolu,2025-03-11
+CUST0409,Sidi Aïssa,2025-11-26,Plainte Écrite,Facturation,Non Traité,
+CUST0410,Bou Saâda,2025-12-23,Plainte Écrite,Service Client,Résolu,2025-12-31
+CUST0411,Bou Saâda,2025-08-23,Appel Call Center,ADSL,Résolu,2025-08-24
+CUST0412,Sidi Aïssa,2025-04-13,,ADSL,Non Traité,
+CUST0413,M'Sila,2025-09-21,Formulaire Web,Facturation,Non Traité,
+CUST0414,Ain El Hadjel,2025-05-10,Plainte Écrite,Service Client,Résolu,2025-05-11
+CUST0415,Bou Saâda,2025-01-25,Formulaire Web,Facturation,En Cours,
+CUST0416,Sidi Aïssa,2025-07-08,Formulaire Web,ADSL,Résolu,2025-07-15
+CUST0417,Ain El Hadjel,2025-07-17,Plainte Écrite,Service Client,Résolu,2025-07-23
+CUST0418,Bou Saâda,2025-07-08,Formulaire Web,Service Client,Résolu,2025-07-21
+CUST0419,Sidi Aïssa,2025-02-10,Appel Call Center,Service Client,En Cours,
+CUST0420,Ain El Hadjel,2025-10-07,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0421,Sidi Aïssa,2025-02-10,Formulaire Web,ADSL,En Cours,
+CUST0422,Sidi Aïssa,2025-06-06,Plainte Écrite,Facturation,En Cours,
+CUST0423,Ain El Hadjel,2025-03-27,Plainte Écrite,Service Client,Résolu,2025-04-08
+CUST0424,Ain El Hadjel,2025-01-22,Formulaire Web,Service Client,Résolu,2025-02-03
+CUST0425,Sidi Aïssa,2025-05-21,Plainte Écrite,Service Client,Résolu,2025-06-01
+CUST0426,M'Sila,2025-07-06,Appel Call Center,Service Client,Résolu,2025-07-15
+CUST0427,Bou Saâda,2025-11-08,Appel Call Center,Fibre FTTH,Résolu,2025-11-19
+CUST0428,Ain El Hadjel,2025-02-04,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0429,Bou Saâda,2025-07-05,Plainte Écrite,Facturation,Résolu,2025-07-12
+CUST0430,M'Sila,2025-12-14,Plainte Écrite,Fibre FTTH,Résolu,2025-12-22
+CUST0431,Sidi Aïssa,2025-02-09,Formulaire Web,Service Client,Résolu,2025-02-19
+CUST0432,Bou Saâda,2025-07-23,Plainte Écrite,Facturation,En Cours,
+CUST0433,Sidi Aïssa,2025-05-08,Plainte Écrite,Facturation,En Cours,
+CUST0434,M'Sila,2025-09-13,Appel Call Center,Fibre FTTH,Résolu,2025-09-22
+CUST0435,Ain El Hadjel,2025-05-15,Plainte Écrite,ADSL,Résolu,2025-05-28
+CUST0436,Sidi Aïssa,2025-04-20,Plainte Écrite,Service Client,En Cours,
+CUST0437,Sidi Aïssa,2025-04-13,Plainte Écrite,Service Client,Résolu,2025-04-15
+CUST0438,Bou Saâda,2025-03-30,Appel Call Center,Service Client,En Cours,
+CUST0439,Ain El Hadjel,2025-12-08,Appel Call Center,Facturation,En Cours,
+CUST0440,Sidi Aïssa,2025-10-09,Plainte Écrite,ADSL,Résolu,2025-10-18
+CUST0441,Sidi Aïssa,2025-12-31,Formulaire Web,Fibre FTTH,Résolu,2025-12-31
+CUST0442,Bou Saâda,2025-04-25,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0443,M'Sila,2025-05-02,Appel Call Center,Fibre FTTH,Résolu,2025-05-15
+CUST0444,Ain El Hadjel,2025-10-11,Appel Call Center,Facturation,Résolu,2025-10-21
+CUST0445,Sidi Aïssa,2025-03-08,Formulaire Web,Interruption Réseau,En Cours,
+CUST0446,M'Sila,2025-07-23,Appel Call Center,Facturation,Non Traité,
+CUST0447,Ain El Hadjel,2025-07-29,Plainte Écrite,Service Client,Non Traité,
+CUST0448,M'Sila,2025-11-25,Appel Call Center,Facturation,En Cours,
+CUST0449,M'Sila,2025-12-15,Formulaire Web,Service Client,Résolu,2025-12-24
+CUST0450,Sidi Aïssa,2025-11-24,Appel Call Center,Interruption Réseau,Résolu,2025-12-04
+CUST0451,Bou Saâda,2025-09-15,Appel Call Center,Service Client,En Cours,
+CUST0452,M'Sila,2025-03-20,Appel Call Center,Interruption Réseau,Résolu,2025-03-25
+CUST0453,Bou Saâda,2025-12-30,Appel Call Center,Facturation,Résolu,2025-12-31
+CUST0454,Sidi Aïssa,2025-02-10,Plainte Écrite,Facturation,Non Traité,
+CUST0455,Sidi Aïssa,2025-05-21,Appel Call Center,Interruption Réseau,Résolu,2025-05-24
+CUST0456,Sidi Aïssa,2025-02-17,Plainte Écrite,Interruption Réseau,Résolu,2025-02-26
+CUST0457,Bou Saâda,2025-03-20,Plainte Écrite,Interruption Réseau,Résolu,2025-03-23
+CUST0458,Sidi Aïssa,2025-01-15,Plainte Écrite,ADSL,Résolu,2025-01-17
+CUST0459,M'Sila,2025-05-16,Plainte Écrite,Interruption Réseau,Résolu,2025-05-27
+CUST0460,Bou Saâda,2025-11-13,Plainte Écrite,Service Client,Résolu,2025-11-24
+CUST0461,M'Sila,2025-05-29,Formulaire Web,Interruption Réseau,Résolu,2025-06-09
+CUST0462,Sidi Aïssa,2025-12-17,,Fibre FTTH,En Cours,
+CUST0463,Ain El Hadjel,2025-02-07,Formulaire Web,Service Client,En Cours,
+CUST0464,M'Sila,2025-08-01,Appel Call Center,Service Client,Résolu,2025-08-09
+CUST0465,Ain El Hadjel,2025-11-07,Appel Call Center,Facturation,Non Traité,
+CUST0466,Bou Saâda,2025-06-26,Formulaire Web,Facturation,Résolu,2025-07-03
+CUST0467,Bou Saâda,2025-10-15,Formulaire Web,Interruption Réseau,Résolu,2025-10-17
+CUST0468,Sidi Aïssa,2025-03-04,Appel Call Center,Service Client,Non Traité,
+CUST0469,Sidi Aïssa,2025-03-14,Formulaire Web,Fibre FTTH,Résolu,2025-03-16
+CUST0470,M'Sila,2025-11-12,Formulaire Web,Service Client,Non Traité,
+CUST0471,Ain El Hadjel,2025-06-17,Appel Call Center,Fibre FTTH,Résolu,2025-06-27
+CUST0472,Sidi Aïssa,2025-09-13,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0473,Ain El Hadjel,2025-09-12,Formulaire Web,Facturation,Résolu,2025-09-13
+CUST0474,M'Sila,2025-08-23,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0475,Bou Saâda,2025-06-30,Appel Call Center,Interruption Réseau,Résolu,2025-07-01
+CUST0476,M'Sila,2025-11-02,Formulaire Web,Service Client,Non Traité,
+CUST0477,Ain El Hadjel,2025-01-05,Formulaire Web,Interruption Réseau,Résolu,2025-01-19
+CUST0478,M'Sila,2025-05-16,Formulaire Web,Fibre FTTH,Résolu,2025-05-28
+CUST0479,Sidi Aïssa,2025-01-24,Formulaire Web,Facturation,Non Traité,
+CUST0480,Ain El Hadjel,2025-10-15,Appel Call Center,Interruption Réseau,Résolu,2025-10-19
+CUST0481,Sidi Aïssa,2025-02-07,Plainte Écrite,Facturation,En Cours,
+CUST0482,Ain El Hadjel,2025-10-09,Plainte Écrite,Service Client,En Cours,
+CUST0483,Sidi Aïssa,2025-03-02,Plainte Écrite,Interruption Réseau,Résolu,2025-03-05
+CUST0484,M'Sila,2025-06-23,Formulaire Web,Facturation,En Cours,
+CUST0485,Sidi Aïssa,2025-11-05,Appel Call Center,Fibre FTTH,Résolu,2025-11-14
+CUST0486,Ain El Hadjel,2025-01-24,Plainte Écrite,ADSL,Non Traité,
+CUST0487,M'Sila,2025-08-31,Appel Call Center,Facturation,Résolu,2025-09-09
+CUST0488,Ain El Hadjel,2025-09-21,Appel Call Center,Interruption Réseau,Résolu,2025-09-24
+CUST0489,Sidi Aïssa,2025-03-25,Plainte Écrite,Facturation,Non Traité,
+CUST0490,Ain El Hadjel,2025-10-31,Plainte Écrite,Facturation,Non Traité,
+CUST0491,Sidi Aïssa,2025-09-30,Plainte Écrite,Interruption Réseau,Résolu,2025-10-08
+CUST0492,Sidi Aïssa,2025-07-08,Formulaire Web,ADSL,En Cours,
+CUST0493,Sidi Aïssa,2025-08-02,Plainte Écrite,ADSL,Résolu,2025-08-12
+CUST0494,Sidi Aïssa,2025-11-02,Plainte Écrite,ADSL,Résolu,2025-11-10
+CUST0495,Sidi Aïssa,2025-10-23,Plainte Écrite,Interruption Réseau,Résolu,2025-10-27
+CUST0496,M'Sila,2025-03-29,Plainte Écrite,Service Client,Résolu,2025-04-07
+CUST0497,Ain El Hadjel,2025-01-17,Appel Call Center,Fibre FTTH,Résolu,2025-01-27
+CUST0498,M'Sila,2025-08-14,Appel Call Center,ADSL,Résolu,2025-08-20
+CUST0499,Ain El Hadjel,2025-12-20,Appel Call Center,Service Client,Non Traité,
+CUST0500,Bou Saâda,2025-11-10,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0501,Ain El Hadjel,2025-12-28,Plainte Écrite,ADSL,En Cours,
+CUST0502,Bou Saâda,2025-10-15,Plainte Écrite,Fibre FTTH,Résolu,2025-10-21
+CUST0503,Ain El Hadjel,2025-06-10,Plainte Écrite,Service Client,Résolu,2025-06-13
+CUST0504,Ain El Hadjel,2025-10-07,Plainte Écrite,Facturation,En Cours,
+CUST0505,Sidi Aïssa,2025-11-09,Plainte Écrite,Facturation,En Cours,
+CUST0506,Ain El Hadjel,2025-05-23,Appel Call Center,Fibre FTTH,Résolu,2025-06-01
+CUST0507,Sidi Aïssa,2025-05-28,Appel Call Center,Facturation,Non Traité,
+CUST0508,Bou Saâda,2025-06-12,Plainte Écrite,Service Client,En Cours,
+CUST0509,Ain El Hadjel,2025-05-21,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0510,Sidi Aïssa,2025-12-13,Appel Call Center,Interruption Réseau,En Cours,
+CUST0511,Ain El Hadjel,2025-03-16,,Facturation,En Cours,
+CUST0512,Sidi Aïssa,2025-02-10,Appel Call Center,Facturation,Résolu,2025-02-16
+CUST0513,Ain El Hadjel,2025-09-03,Plainte Écrite,Facturation,Non Traité,
+CUST0514,Bou Saâda,2025-05-19,Appel Call Center,Interruption Réseau,Non Traité,
+CUST0515,Sidi Aïssa,2025-11-12,Appel Call Center,ADSL,Résolu,2025-11-24
+CUST0516,Bou Saâda,2025-12-09,Appel Call Center,ADSL,Résolu,2025-12-18
+CUST0517,Bou Saâda,2025-01-27,Plainte Écrite,Fibre FTTH,Résolu,2025-01-29
+CUST0518,Ain El Hadjel,2025-02-21,Formulaire Web,Service Client,En Cours,
+CUST0519,Bou Saâda,2025-03-22,Appel Call Center,Interruption Réseau,Non Traité,
+CUST0520,Ain El Hadjel,2025-09-02,Plainte Écrite,Service Client,Résolu,2025-09-13
+CUST0521,Bou Saâda,2025-05-27,Formulaire Web,Facturation,Résolu,2025-06-07
+CUST0522,M'Sila,2025-04-29,Appel Call Center,Interruption Réseau,Résolu,2025-05-08
+CUST0523,M'Sila,2025-04-01,Appel Call Center,Service Client,Non Traité,
+CUST0524,M'Sila,2025-04-06,Formulaire Web,Service Client,En Cours,
+CUST0525,Sidi Aïssa,2025-06-02,,ADSL,En Cours,
+CUST0526,M'Sila,2025-08-21,Formulaire Web,Facturation,Résolu,2025-09-01
+CUST0527,Ain El Hadjel,2025-08-28,Appel Call Center,Interruption Réseau,Résolu,2025-09-02
+CUST0528,Bou Saâda,2025-03-25,Appel Call Center,Facturation,Résolu,2025-04-06
+CUST0529,Ain El Hadjel,2025-04-06,Plainte Écrite,Facturation,Résolu,2025-04-07
+CUST0530,Sidi Aïssa,2025-12-12,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0531,Bou Saâda,2025-11-24,Appel Call Center,Interruption Réseau,En Cours,
+CUST0532,Ain El Hadjel,2025-06-17,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0533,M'Sila,2025-04-05,Formulaire Web,ADSL,Non Traité,
+CUST0534,Bou Saâda,2025-05-08,Formulaire Web,Facturation,Résolu,2025-05-09
+CUST0535,Sidi Aïssa,2025-08-17,Formulaire Web,Fibre FTTH,En Cours,
+CUST0536,Sidi Aïssa,2025-10-26,Formulaire Web,Facturation,Non Traité,
+CUST0537,M'Sila,2025-12-21,Formulaire Web,Facturation,En Cours,
+CUST0538,Bou Saâda,2025-08-27,Appel Call Center,ADSL,Résolu,2025-09-01
+CUST0539,Bou Saâda,2025-12-27,,Interruption Réseau,Résolu,2025-12-31
+CUST0540,Sidi Aïssa,2025-11-24,Plainte Écrite,ADSL,Résolu,2025-11-29
+CUST0541,Sidi Aïssa,2025-04-23,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST0542,Bou Saâda,2025-08-21,Formulaire Web,Fibre FTTH,En Cours,
+CUST0543,Sidi Aïssa,2025-08-30,Formulaire Web,Interruption Réseau,Résolu,2025-09-12
+CUST0544,Bou Saâda,2025-02-11,Appel Call Center,Interruption Réseau,En Cours,
+CUST0545,Ain El Hadjel,2025-02-09,Plainte Écrite,Facturation,En Cours,
+CUST0546,M'Sila,2025-09-16,Appel Call Center,Interruption Réseau,Résolu,2025-09-20
+CUST0547,Bou Saâda,2025-09-24,Appel Call Center,Facturation,Résolu,2025-10-02
+CUST0548,M'Sila,2025-10-26,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0549,Ain El Hadjel,2025-08-17,Appel Call Center,Interruption Réseau,Résolu,2025-08-30
+CUST0550,M'Sila,2025-09-20,Formulaire Web,Fibre FTTH,En Cours,
+CUST0551,Ain El Hadjel,2025-01-30,Formulaire Web,Interruption Réseau,Résolu,2025-02-08
+CUST0552,Ain El Hadjel,2025-01-12,Plainte Écrite,Facturation,Non Traité,
+CUST0553,Ain El Hadjel,2025-04-22,Formulaire Web,ADSL,Résolu,2025-05-02
+CUST0554,M'Sila,2025-06-26,Appel Call Center,Service Client,Résolu,2025-07-08
+CUST0555,M'Sila,2025-02-05,,ADSL,Non Traité,
+CUST0556,Ain El Hadjel,2025-07-29,Appel Call Center,Facturation,Résolu,2025-08-01
+CUST0557,Bou Saâda,2025-07-11,Plainte Écrite,Service Client,Résolu,2025-07-18
+CUST0558,Ain El Hadjel,2025-02-11,Formulaire Web,Service Client,Résolu,2025-02-22
+CUST0559,Bou Saâda,2025-03-02,Plainte Écrite,Facturation,En Cours,
+CUST0560,Bou Saâda,2025-09-28,Plainte Écrite,Service Client,En Cours,
+CUST0561,Bou Saâda,2025-01-02,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0562,M'Sila,2025-12-11,Formulaire Web,Service Client,Résolu,2025-12-23
+CUST0563,Ain El Hadjel,2025-04-28,Plainte Écrite,Service Client,Résolu,2025-05-02
+CUST0564,Ain El Hadjel,2025-05-22,Formulaire Web,Fibre FTTH,Résolu,2025-05-26
+CUST0565,M'Sila,2025-11-11,Appel Call Center,Service Client,Résolu,2025-11-24
+CUST0566,M'Sila,2025-02-04,Appel Call Center,Fibre FTTH,Résolu,2025-02-06
+CUST0567,M'Sila,2025-12-11,Formulaire Web,Interruption Réseau,Résolu,2025-12-23
+CUST0568,M'Sila,2025-07-25,Appel Call Center,ADSL,Résolu,2025-08-02
+CUST0569,Bou Saâda,2025-01-29,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST0570,Bou Saâda,2025-04-30,Plainte Écrite,Facturation,Résolu,2025-05-14
+CUST0571,Sidi Aïssa,2025-12-11,Plainte Écrite,Interruption Réseau,Résolu,2025-12-25
+CUST0572,Sidi Aïssa,2025-03-15,Appel Call Center,Facturation,En Cours,
+CUST0573,Bou Saâda,2025-05-21,Formulaire Web,Facturation,Résolu,2025-05-22
+CUST0574,Bou Saâda,2025-10-12,Plainte Écrite,Service Client,En Cours,
+CUST0575,Ain El Hadjel,2025-11-26,Appel Call Center,Facturation,Non Traité,
+CUST0576,Ain El Hadjel,2025-12-23,,Facturation,Non Traité,
+CUST0577,Ain El Hadjel,2025-06-03,Formulaire Web,Fibre FTTH,Résolu,2025-06-10
+CUST0578,Bou Saâda,2025-05-04,Plainte Écrite,Service Client,Non Traité,
+CUST0579,Bou Saâda,2025-08-26,Formulaire Web,Fibre FTTH,Résolu,2025-08-27
+CUST0580,Ain El Hadjel,2025-09-29,Formulaire Web,Interruption Réseau,Résolu,2025-10-02
+CUST0581,Ain El Hadjel,2025-04-15,Appel Call Center,Facturation,Résolu,2025-04-21
+CUST0582,M'Sila,2025-02-17,Formulaire Web,Facturation,Non Traité,
+CUST0583,Bou Saâda,2025-07-13,Appel Call Center,Facturation,Résolu,2025-07-24
+CUST0584,M'Sila,2025-10-28,Appel Call Center,Fibre FTTH,Résolu,2025-11-09
+CUST0585,Bou Saâda,2025-06-20,Formulaire Web,Fibre FTTH,En Cours,
+CUST0586,Sidi Aïssa,2025-04-08,Appel Call Center,Fibre FTTH,Résolu,2025-04-20
+CUST0587,M'Sila,2025-05-05,Plainte Écrite,Service Client,Résolu,2025-05-17
+CUST0588,Bou Saâda,2025-10-10,Formulaire Web,Fibre FTTH,Résolu,2025-10-16
+CUST0589,Sidi Aïssa,2025-10-01,Formulaire Web,Service Client,Résolu,2025-10-12
+CUST0590,Sidi Aïssa,2025-07-04,Formulaire Web,Facturation,Résolu,2025-07-13
+CUST0591,Ain El Hadjel,2025-08-29,Formulaire Web,ADSL,Résolu,2025-09-11
+CUST0592,Sidi Aïssa,2025-06-10,Appel Call Center,Facturation,En Cours,
+CUST0593,Ain El Hadjel,2025-04-24,Appel Call Center,Interruption Réseau,Résolu,2025-05-06
+CUST0594,Bou Saâda,2025-10-11,Appel Call Center,Facturation,Résolu,2025-10-21
+CUST0595,Ain El Hadjel,2025-04-11,Formulaire Web,Fibre FTTH,Non Traité,
+CUST0596,Sidi Aïssa,2025-10-19,Appel Call Center,Service Client,Résolu,2025-11-02
+CUST0597,Bou Saâda,2025-12-02,Formulaire Web,Interruption Réseau,En Cours,
+CUST0598,Sidi Aïssa,2025-11-25,Formulaire Web,Service Client,Résolu,2025-12-07
+CUST0599,Ain El Hadjel,2025-06-30,Formulaire Web,Fibre FTTH,Résolu,2025-07-03
+CUST0600,Bou Saâda,2025-09-08,Plainte Écrite,Interruption Réseau,Résolu,2025-09-11
+CUST0601,M'Sila,2025-02-08,Plainte Écrite,ADSL,Résolu,2025-02-22
+CUST0602,M'Sila,2025-03-12,Appel Call Center,Service Client,Résolu,2025-03-26
+CUST0603,Bou Saâda,2025-01-05,,Fibre FTTH,Résolu,2025-01-09
+CUST0604,Ain El Hadjel,2025-11-13,Formulaire Web,ADSL,Résolu,2025-11-24
+CUST0605,Ain El Hadjel,2025-01-09,Plainte Écrite,Service Client,Résolu,2025-01-10
+CUST0606,Ain El Hadjel,2025-09-29,Appel Call Center,ADSL,Résolu,2025-10-11
+CUST0607,Sidi Aïssa,2025-01-09,Plainte Écrite,Facturation,Résolu,2025-01-18
+CUST0608,Ain El Hadjel,2025-02-19,Appel Call Center,ADSL,Résolu,2025-02-28
+CUST0609,Bou Saâda,2025-11-14,Appel Call Center,Fibre FTTH,Résolu,2025-11-23
+CUST0610,Sidi Aïssa,2025-07-23,Formulaire Web,Facturation,En Cours,
+CUST0611,M'Sila,2025-08-24,Formulaire Web,Service Client,Résolu,2025-09-03
+CUST0612,Bou Saâda,2025-06-03,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0613,M'Sila,2025-02-17,Plainte Écrite,ADSL,En Cours,
+CUST0614,Ain El Hadjel,2025-10-10,Formulaire Web,Service Client,Résolu,2025-10-18
+CUST0615,M'Sila,2025-12-26,Plainte Écrite,ADSL,Non Traité,
+CUST0616,Bou Saâda,2025-08-11,,Service Client,Non Traité,
+CUST0617,Sidi Aïssa,2025-09-28,Plainte Écrite,ADSL,Résolu,2025-09-29
+CUST0618,Bou Saâda,2025-09-01,Appel Call Center,Interruption Réseau,Résolu,2025-09-06
+CUST0619,M'Sila,2025-10-06,Appel Call Center,Facturation,En Cours,
+CUST0620,M'Sila,2025-01-09,Appel Call Center,Facturation,En Cours,
+CUST0621,Bou Saâda,2025-12-31,Plainte Écrite,Fibre FTTH,Résolu,2025-12-31
+CUST0622,Ain El Hadjel,2025-03-25,Appel Call Center,Facturation,Résolu,2025-04-04
+CUST0623,Bou Saâda,2025-12-13,Plainte Écrite,Service Client,Résolu,2025-12-22
+CUST0624,Sidi Aïssa,2025-12-19,Formulaire Web,Fibre FTTH,Résolu,2025-12-31
+CUST0625,M'Sila,2025-01-28,Plainte Écrite,Facturation,En Cours,
+CUST0626,M'Sila,2025-02-08,Formulaire Web,Fibre FTTH,Résolu,2025-02-14
+CUST0627,Ain El Hadjel,2025-11-21,Formulaire Web,ADSL,Résolu,2025-11-26
+CUST0628,Ain El Hadjel,2025-07-02,Formulaire Web,Fibre FTTH,En Cours,
+CUST0629,Ain El Hadjel,2025-12-15,Formulaire Web,Fibre FTTH,Résolu,2025-12-25
+CUST0630,Ain El Hadjel,2025-06-01,Appel Call Center,Interruption Réseau,Résolu,2025-06-14
+CUST0631,Bou Saâda,2025-02-12,Plainte Écrite,ADSL,En Cours,
+CUST0632,Sidi Aïssa,2025-12-31,Appel Call Center,Service Client,Non Traité,
+CUST0633,Bou Saâda,2025-06-12,Plainte Écrite,Service Client,Résolu,2025-06-18
+CUST0634,M'Sila,2025-06-07,Appel Call Center,ADSL,Résolu,2025-06-15
+CUST0635,Sidi Aïssa,2025-03-09,Formulaire Web,ADSL,Résolu,2025-03-11
+CUST0636,Bou Saâda,2025-10-13,Formulaire Web,Service Client,Résolu,2025-10-22
+CUST0637,Ain El Hadjel,2025-02-15,Appel Call Center,ADSL,Résolu,2025-02-21
+CUST0638,M'Sila,2025-06-16,Plainte Écrite,Interruption Réseau,Résolu,2025-06-30
+CUST0639,Ain El Hadjel,2025-07-31,Appel Call Center,Facturation,Résolu,2025-08-07
+CUST0640,M'Sila,2025-05-05,,Interruption Réseau,Résolu,2025-05-15
+CUST0641,Bou Saâda,2025-03-28,Plainte Écrite,Service Client,Résolu,2025-03-31
+CUST0642,Sidi Aïssa,2025-09-10,Formulaire Web,Facturation,Résolu,2025-09-13
+CUST0643,M'Sila,2025-05-22,Appel Call Center,Service Client,Résolu,2025-05-29
+CUST0644,Sidi Aïssa,2025-07-04,Formulaire Web,ADSL,Résolu,2025-07-09
+CUST0645,Bou Saâda,2025-11-01,Plainte Écrite,Service Client,Résolu,2025-11-11
+CUST0646,Bou Saâda,2025-03-11,Formulaire Web,ADSL,Non Traité,
+CUST0647,Sidi Aïssa,2025-06-20,Appel Call Center,Service Client,Résolu,2025-07-04
+CUST0648,Ain El Hadjel,2025-06-21,Formulaire Web,Service Client,En Cours,
+CUST0649,Ain El Hadjel,2025-03-11,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0650,Sidi Aïssa,2025-12-22,Formulaire Web,Interruption Réseau,Résolu,2025-12-26
+CUST0651,Ain El Hadjel,2025-07-23,Formulaire Web,Fibre FTTH,Résolu,2025-07-29
+CUST0652,Sidi Aïssa,2025-10-22,Plainte Écrite,Service Client,Résolu,2025-11-04
+CUST0653,Bou Saâda,2025-05-24,Formulaire Web,Service Client,Résolu,2025-06-07
+CUST0654,Ain El Hadjel,2025-10-16,Formulaire Web,ADSL,En Cours,
+CUST0655,Bou Saâda,2025-04-03,Plainte Écrite,Interruption Réseau,Résolu,2025-04-14
+CUST0656,M'Sila,2025-12-29,Plainte Écrite,Service Client,Résolu,2025-12-31
+CUST0657,Ain El Hadjel,2025-07-29,Formulaire Web,ADSL,Résolu,2025-08-09
+CUST0658,Ain El Hadjel,2025-05-04,Appel Call Center,Facturation,Résolu,2025-05-09
+CUST0659,Bou Saâda,2025-07-13,Plainte Écrite,Service Client,En Cours,
+CUST0660,M'Sila,2025-09-03,Formulaire Web,Interruption Réseau,Résolu,2025-09-13
+CUST0661,Ain El Hadjel,2025-12-21,Plainte Écrite,Interruption Réseau,Résolu,2025-12-28
+CUST0662,M'Sila,2025-11-01,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0663,M'Sila,2025-12-03,Appel Call Center,Fibre FTTH,En Cours,
+CUST0664,Sidi Aïssa,2025-01-23,Appel Call Center,Interruption Réseau,Résolu,2025-02-02
+CUST0665,Ain El Hadjel,2025-02-24,Formulaire Web,Service Client,Résolu,2025-02-25
+CUST0666,M'Sila,2025-09-19,Formulaire Web,Fibre FTTH,Résolu,2025-10-01
+CUST0667,Bou Saâda,2025-07-20,Formulaire Web,Facturation,Résolu,2025-07-28
+CUST0668,Bou Saâda,2025-09-05,Formulaire Web,ADSL,Résolu,2025-09-07
+CUST0669,Sidi Aïssa,2025-03-01,Formulaire Web,ADSL,Résolu,2025-03-15
+CUST0670,Bou Saâda,2025-06-25,Formulaire Web,Facturation,Résolu,2025-07-03
+CUST0671,Bou Saâda,2025-06-28,Plainte Écrite,Service Client,Résolu,2025-07-06
+CUST0672,M'Sila,2025-06-13,Formulaire Web,Service Client,Non Traité,
+CUST0673,M'Sila,2025-12-30,Formulaire Web,ADSL,Résolu,2025-12-31
+CUST0674,M'Sila,2025-12-13,,ADSL,Résolu,2025-12-26
+CUST0675,Bou Saâda,2025-09-22,Plainte Écrite,Fibre FTTH,Résolu,2025-09-25
+CUST0676,Bou Saâda,2025-08-07,,Interruption Réseau,Non Traité,
+CUST0677,Ain El Hadjel,2025-11-19,Appel Call Center,Service Client,Résolu,2025-11-22
+CUST0678,Bou Saâda,2025-07-22,Plainte Écrite,Service Client,Résolu,2025-07-23
+CUST0679,Bou Saâda,2025-08-08,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0680,Ain El Hadjel,2025-04-16,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0681,Sidi Aïssa,2025-10-23,Plainte Écrite,ADSL,En Cours,
+CUST0682,M'Sila,2025-07-07,Plainte Écrite,Fibre FTTH,Résolu,2025-07-13
+CUST0683,Bou Saâda,2025-05-15,Formulaire Web,ADSL,Résolu,2025-05-26
+CUST0684,Ain El Hadjel,2025-11-02,Plainte Écrite,Facturation,En Cours,
+CUST0685,Ain El Hadjel,2025-10-28,Plainte Écrite,Service Client,Non Traité,
+CUST0686,M'Sila,2025-08-23,Formulaire Web,Facturation,Résolu,2025-09-02
+CUST0687,Bou Saâda,2025-11-11,Plainte Écrite,Facturation,Résolu,2025-11-21
+CUST0688,M'Sila,2025-06-10,Plainte Écrite,Fibre FTTH,Résolu,2025-06-12
+CUST0689,Bou Saâda,2025-04-04,Formulaire Web,ADSL,En Cours,
+CUST0690,Sidi Aïssa,2025-09-19,Plainte Écrite,Fibre FTTH,Résolu,2025-09-26
+CUST0691,Ain El Hadjel,2025-10-22,Plainte Écrite,Fibre FTTH,Résolu,2025-10-29
+CUST0692,Ain El Hadjel,2025-11-22,Appel Call Center,Service Client,Résolu,2025-12-01
+CUST0693,Bou Saâda,2025-09-08,Plainte Écrite,Fibre FTTH,Résolu,2025-09-13
+CUST0694,Bou Saâda,2025-08-19,Appel Call Center,Facturation,Résolu,2025-08-29
+CUST0695,M'Sila,2025-09-06,Formulaire Web,ADSL,Résolu,2025-09-09
+CUST0696,Bou Saâda,2025-09-16,Formulaire Web,Interruption Réseau,En Cours,
+CUST0697,Ain El Hadjel,2025-08-01,,Service Client,Résolu,2025-08-13
+CUST0698,Ain El Hadjel,2025-02-12,Formulaire Web,Fibre FTTH,Résolu,2025-02-22
+CUST0699,M'Sila,2025-01-17,Appel Call Center,Facturation,Résolu,2025-01-22
+CUST0700,Bou Saâda,2025-03-28,Plainte Écrite,Facturation,Résolu,2025-04-10
+CUST0701,Ain El Hadjel,2025-10-09,Plainte Écrite,Service Client,Résolu,2025-10-18
+CUST0702,M'Sila,2025-05-18,Plainte Écrite,ADSL,Résolu,2025-05-31
+CUST0703,Sidi Aïssa,2025-08-14,Plainte Écrite,ADSL,Résolu,2025-08-23
+CUST0704,Bou Saâda,2025-12-01,Formulaire Web,ADSL,Résolu,2025-12-14
+CUST0705,Bou Saâda,2025-08-19,Formulaire Web,ADSL,Résolu,2025-08-24
+CUST0706,Sidi Aïssa,2025-03-02,Appel Call Center,Service Client,Non Traité,
+CUST0707,Bou Saâda,2025-12-19,Appel Call Center,Interruption Réseau,Résolu,2025-12-25
+CUST0708,Ain El Hadjel,2025-03-13,Appel Call Center,Interruption Réseau,En Cours,
+CUST0709,Bou Saâda,2025-10-19,,ADSL,Résolu,2025-10-25
+CUST0710,Sidi Aïssa,2025-03-28,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0711,Sidi Aïssa,2025-05-29,Plainte Écrite,Facturation,En Cours,
+CUST0712,Sidi Aïssa,2025-03-11,Plainte Écrite,ADSL,Résolu,2025-03-24
+CUST0713,Ain El Hadjel,2025-12-02,,Facturation,Résolu,2025-12-05
+CUST0714,Bou Saâda,2025-12-31,Appel Call Center,Fibre FTTH,Résolu,2025-12-31
+CUST0715,Bou Saâda,2025-09-08,Plainte Écrite,Service Client,Résolu,2025-09-11
+CUST0716,Sidi Aïssa,2025-07-12,Plainte Écrite,Service Client,Non Traité,
+CUST0717,Ain El Hadjel,2025-07-26,Appel Call Center,ADSL,En Cours,
+CUST0718,Sidi Aïssa,2025-08-21,Plainte Écrite,Facturation,Non Traité,
+CUST0719,Ain El Hadjel,2025-01-02,Formulaire Web,Interruption Réseau,Résolu,2025-01-16
+CUST0720,M'Sila,2025-11-22,Plainte Écrite,Service Client,En Cours,
+CUST0721,Sidi Aïssa,2025-07-23,Appel Call Center,Interruption Réseau,Non Traité,
+CUST0722,Bou Saâda,2025-09-11,Formulaire Web,Fibre FTTH,Résolu,2025-09-16
+CUST0723,Sidi Aïssa,2025-10-08,Formulaire Web,Facturation,Résolu,2025-10-18
+CUST0724,Bou Saâda,2025-06-25,Plainte Écrite,Service Client,En Cours,
+CUST0725,M'Sila,2025-11-17,Appel Call Center,ADSL,Résolu,2025-11-30
+CUST0726,Ain El Hadjel,2025-03-22,Appel Call Center,ADSL,En Cours,
+CUST0727,Ain El Hadjel,2025-08-08,Formulaire Web,ADSL,Résolu,2025-08-12
+CUST0728,Bou Saâda,2025-03-23,Plainte Écrite,Facturation,En Cours,
+CUST0729,Sidi Aïssa,2025-05-09,Appel Call Center,Facturation,Résolu,2025-05-11
+CUST0730,Sidi Aïssa,2025-01-27,Plainte Écrite,Fibre FTTH,Résolu,2025-02-03
+CUST0731,Sidi Aïssa,2025-08-08,Plainte Écrite,Fibre FTTH,Résolu,2025-08-19
+CUST0732,M'Sila,2025-01-01,Plainte Écrite,ADSL,En Cours,
+CUST0733,Bou Saâda,2025-03-09,Formulaire Web,ADSL,En Cours,
+CUST0734,Bou Saâda,2025-01-05,Plainte Écrite,Service Client,Résolu,2025-01-06
+CUST0735,Sidi Aïssa,2025-12-22,Appel Call Center,Service Client,Résolu,2025-12-25
+CUST0736,Ain El Hadjel,2025-07-16,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0737,M'Sila,2025-02-22,Plainte Écrite,ADSL,Résolu,2025-02-28
+CUST0738,Sidi Aïssa,2025-07-15,Formulaire Web,Fibre FTTH,En Cours,
+CUST0739,Bou Saâda,2025-02-05,Plainte Écrite,Fibre FTTH,Résolu,2025-02-14
+CUST0740,M'Sila,2025-08-14,Plainte Écrite,Fibre FTTH,Résolu,2025-08-20
+CUST0741,Bou Saâda,2025-07-30,Plainte Écrite,Fibre FTTH,Résolu,2025-08-09
+CUST0742,Ain El Hadjel,2025-02-21,Appel Call Center,ADSL,Résolu,2025-02-24
+CUST0743,M'Sila,2025-06-29,Plainte Écrite,Service Client,En Cours,
+CUST0744,Ain El Hadjel,2025-05-07,Formulaire Web,Fibre FTTH,Résolu,2025-05-12
+CUST0745,M'Sila,2025-11-04,Appel Call Center,Interruption Réseau,Résolu,2025-11-14
+CUST0746,Sidi Aïssa,2025-12-04,Plainte Écrite,ADSL,Non Traité,
+CUST0747,Sidi Aïssa,2025-11-07,Appel Call Center,Interruption Réseau,Résolu,2025-11-16
+CUST0748,Bou Saâda,2025-06-01,Plainte Écrite,Service Client,Résolu,2025-06-12
+CUST0749,M'Sila,2025-07-17,Appel Call Center,Service Client,Non Traité,
+CUST0750,M'Sila,2025-11-23,Appel Call Center,Service Client,En Cours,
+CUST0751,M'Sila,2025-07-04,Plainte Écrite,ADSL,Résolu,2025-07-10
+CUST0752,Bou Saâda,2025-08-04,Formulaire Web,Interruption Réseau,Non Traité,
+CUST0753,Sidi Aïssa,2025-08-30,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0754,M'Sila,2025-02-04,Appel Call Center,Interruption Réseau,Résolu,2025-02-05
+CUST0755,Sidi Aïssa,2025-01-31,Appel Call Center,ADSL,Résolu,2025-02-13
+CUST0756,Ain El Hadjel,2025-11-18,Plainte Écrite,Facturation,En Cours,
+CUST0757,Ain El Hadjel,2025-02-12,Formulaire Web,Service Client,En Cours,
+CUST0758,Bou Saâda,2025-06-08,Formulaire Web,ADSL,Résolu,2025-06-10
+CUST0759,Bou Saâda,2025-06-17,Appel Call Center,Interruption Réseau,Non Traité,
+CUST0760,Ain El Hadjel,2025-06-08,Plainte Écrite,ADSL,En Cours,
+CUST0761,Ain El Hadjel,2025-01-30,Plainte Écrite,Fibre FTTH,Résolu,2025-02-03
+CUST0762,M'Sila,2025-08-21,Formulaire Web,ADSL,Résolu,2025-08-31
+CUST0763,M'Sila,2025-03-03,Formulaire Web,Fibre FTTH,Résolu,2025-03-04
+CUST0764,Bou Saâda,2025-03-25,Plainte Écrite,ADSL,En Cours,
+CUST0765,Ain El Hadjel,2025-09-22,,Interruption Réseau,Résolu,2025-10-05
+CUST0766,Sidi Aïssa,2025-03-06,Appel Call Center,Facturation,Résolu,2025-03-18
+CUST0767,Sidi Aïssa,2025-01-16,Plainte Écrite,ADSL,En Cours,
+CUST0768,Sidi Aïssa,2025-09-26,Formulaire Web,Facturation,Non Traité,
+CUST0769,M'Sila,2025-11-18,Formulaire Web,Interruption Réseau,Résolu,2025-11-20
+CUST0770,Ain El Hadjel,2025-07-04,Formulaire Web,Interruption Réseau,En Cours,
+CUST0771,M'Sila,2025-03-27,Formulaire Web,Interruption Réseau,Résolu,2025-04-02
+CUST0772,Bou Saâda,2025-10-21,Formulaire Web,ADSL,En Cours,
+CUST0773,M'Sila,2025-01-02,Appel Call Center,Interruption Réseau,Résolu,2025-01-03
+CUST0774,M'Sila,2025-08-30,,ADSL,Résolu,2025-09-05
+CUST0775,Ain El Hadjel,2025-01-19,Appel Call Center,Fibre FTTH,En Cours,
+CUST0776,Ain El Hadjel,2025-05-08,Appel Call Center,Facturation,Résolu,2025-05-15
+CUST0777,Sidi Aïssa,2025-10-20,Formulaire Web,ADSL,Résolu,2025-10-26
+CUST0778,M'Sila,2025-04-02,Plainte Écrite,ADSL,En Cours,
+CUST0779,Bou Saâda,2025-07-25,Plainte Écrite,ADSL,En Cours,
+CUST0780,M'Sila,2025-06-09,Formulaire Web,Facturation,En Cours,
+CUST0781,Sidi Aïssa,2025-08-22,Appel Call Center,Interruption Réseau,En Cours,
+CUST0782,M'Sila,2025-05-30,,Fibre FTTH,Résolu,2025-06-09
+CUST0783,Sidi Aïssa,2025-05-05,Plainte Écrite,Interruption Réseau,Résolu,2025-05-13
+CUST0784,Sidi Aïssa,2025-04-11,Plainte Écrite,Service Client,Résolu,2025-04-23
+CUST0785,Bou Saâda,2025-07-29,Appel Call Center,ADSL,Résolu,2025-07-30
+CUST0786,Bou Saâda,2025-11-22,Plainte Écrite,Facturation,Non Traité,
+CUST0787,M'Sila,2025-12-03,Formulaire Web,ADSL,Résolu,2025-12-10
+CUST0788,Sidi Aïssa,2025-09-29,Appel Call Center,Fibre FTTH,Résolu,2025-10-03
+CUST0789,Ain El Hadjel,2025-03-14,Formulaire Web,ADSL,Résolu,2025-03-26
+CUST0790,Sidi Aïssa,2025-04-29,Appel Call Center,ADSL,Non Traité,
+CUST0791,Ain El Hadjel,2025-08-23,Plainte Écrite,Facturation,Résolu,2025-09-04
+CUST0792,M'Sila,2025-09-16,Plainte Écrite,ADSL,Résolu,2025-09-19
+CUST0793,Ain El Hadjel,2025-10-18,Appel Call Center,Interruption Réseau,Résolu,2025-10-19
+CUST0794,Ain El Hadjel,2025-05-02,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0795,Sidi Aïssa,2025-07-21,Formulaire Web,Facturation,Résolu,2025-08-02
+CUST0796,Sidi Aïssa,2025-05-20,Formulaire Web,Service Client,Non Traité,
+CUST0797,Bou Saâda,2025-03-11,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0798,M'Sila,2025-03-26,Appel Call Center,ADSL,Résolu,2025-04-03
+CUST0799,Ain El Hadjel,2025-03-03,Formulaire Web,Service Client,En Cours,
+CUST0800,Sidi Aïssa,2025-06-07,Appel Call Center,Service Client,Non Traité,
+CUST0801,Ain El Hadjel,2025-02-16,Formulaire Web,ADSL,En Cours,
+CUST0802,Bou Saâda,2025-12-27,Plainte Écrite,Facturation,Résolu,2025-12-31
+CUST0803,M'Sila,2025-03-17,Appel Call Center,Facturation,Résolu,2025-03-19
+CUST0804,Bou Saâda,2025-09-20,Formulaire Web,Service Client,En Cours,
+CUST0805,M'Sila,2025-05-14,Plainte Écrite,Facturation,Résolu,2025-05-28
+CUST0806,Bou Saâda,2025-08-20,Appel Call Center,Service Client,En Cours,
+CUST0807,Bou Saâda,2025-02-22,Appel Call Center,Service Client,Non Traité,
+CUST0808,Bou Saâda,2025-02-01,Appel Call Center,ADSL,Non Traité,
+CUST0809,Bou Saâda,2025-07-25,Appel Call Center,Fibre FTTH,Résolu,2025-07-31
+CUST0810,M'Sila,2025-05-13,Plainte Écrite,Interruption Réseau,Résolu,2025-05-27
+CUST0811,M'Sila,2025-04-12,Appel Call Center,ADSL,Non Traité,
+CUST0812,Ain El Hadjel,2025-06-19,Appel Call Center,ADSL,En Cours,
+CUST0813,M'Sila,2025-01-26,Appel Call Center,Service Client,Résolu,2025-01-29
+CUST0814,Ain El Hadjel,2025-09-12,Plainte Écrite,Service Client,Non Traité,
+CUST0815,M'Sila,2025-03-30,Formulaire Web,Service Client,Non Traité,
+CUST0816,Sidi Aïssa,2025-05-21,Appel Call Center,Fibre FTTH,Résolu,2025-05-26
+CUST0817,Ain El Hadjel,2025-11-11,Appel Call Center,ADSL,Résolu,2025-11-21
+CUST0818,Bou Saâda,2025-09-13,Plainte Écrite,Facturation,Résolu,2025-09-20
+CUST0819,Ain El Hadjel,2025-05-24,,ADSL,Résolu,2025-05-31
+CUST0820,Bou Saâda,2025-11-26,Formulaire Web,Fibre FTTH,Résolu,2025-12-09
+CUST0821,Bou Saâda,2025-01-10,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0822,Ain El Hadjel,2025-09-03,Plainte Écrite,Facturation,Résolu,2025-09-12
+CUST0823,Ain El Hadjel,2025-09-15,Formulaire Web,Interruption Réseau,Résolu,2025-09-21
+CUST0824,Ain El Hadjel,2025-01-14,Formulaire Web,Fibre FTTH,Résolu,2025-01-20
+CUST0825,Bou Saâda,2025-01-30,Appel Call Center,Facturation,Résolu,2025-02-12
+CUST0826,Ain El Hadjel,2025-10-27,Plainte Écrite,Facturation,Non Traité,
+CUST0827,Bou Saâda,2025-05-07,Appel Call Center,ADSL,Résolu,2025-05-18
+CUST0828,Bou Saâda,2025-01-29,Formulaire Web,Interruption Réseau,Résolu,2025-02-11
+CUST0829,Bou Saâda,2025-07-01,Plainte Écrite,Service Client,En Cours,
+CUST0830,Bou Saâda,2025-10-31,Appel Call Center,Fibre FTTH,Résolu,2025-11-06
+CUST0831,Sidi Aïssa,2025-12-27,Plainte Écrite,ADSL,Résolu,2025-12-31
+CUST0832,Sidi Aïssa,2025-03-14,Plainte Écrite,Interruption Réseau,Résolu,2025-03-24
+CUST0833,Bou Saâda,2025-06-08,Formulaire Web,Interruption Réseau,Résolu,2025-06-11
+CUST0834,Ain El Hadjel,2025-01-29,Appel Call Center,ADSL,Résolu,2025-02-02
+CUST0835,Bou Saâda,2025-09-02,Appel Call Center,Interruption Réseau,Résolu,2025-09-03
+CUST0836,Sidi Aïssa,2025-03-08,Plainte Écrite,Fibre FTTH,Résolu,2025-03-14
+CUST0837,Bou Saâda,2025-01-12,Formulaire Web,ADSL,Non Traité,
+CUST0838,Bou Saâda,2025-02-26,Plainte Écrite,Fibre FTTH,Résolu,2025-03-12
+CUST0839,Sidi Aïssa,2025-12-27,Appel Call Center,Facturation,Résolu,2025-12-31
+CUST0840,Ain El Hadjel,2025-06-22,Plainte Écrite,ADSL,En Cours,
+CUST0841,Sidi Aïssa,2025-03-22,Formulaire Web,Fibre FTTH,Résolu,2025-04-03
+CUST0842,Ain El Hadjel,2025-11-29,,Service Client,En Cours,
+CUST0843,Sidi Aïssa,2025-12-22,Appel Call Center,Interruption Réseau,Résolu,2025-12-31
+CUST0844,Sidi Aïssa,2025-03-31,Appel Call Center,Interruption Réseau,Non Traité,
+CUST0845,Ain El Hadjel,2025-03-07,Formulaire Web,Facturation,Résolu,2025-03-10
+CUST0846,M'Sila,2025-07-20,Plainte Écrite,Interruption Réseau,Résolu,2025-08-03
+CUST0847,M'Sila,2025-06-12,Appel Call Center,Interruption Réseau,Résolu,2025-06-25
+CUST0848,Bou Saâda,2025-02-23,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST0849,Ain El Hadjel,2025-02-09,Appel Call Center,Facturation,Résolu,2025-02-13
+CUST0850,Sidi Aïssa,2025-11-22,Formulaire Web,Fibre FTTH,Résolu,2025-11-24
+CUST0851,Sidi Aïssa,2025-05-16,Formulaire Web,ADSL,Résolu,2025-05-20
+CUST0852,Bou Saâda,2025-06-29,Plainte Écrite,ADSL,En Cours,
+CUST0853,Sidi Aïssa,2025-01-25,Appel Call Center,ADSL,Résolu,2025-02-01
+CUST0854,Ain El Hadjel,2025-03-27,Plainte Écrite,Service Client,Non Traité,
+CUST0855,Ain El Hadjel,2025-06-29,Formulaire Web,Service Client,Résolu,2025-07-08
+CUST0856,Ain El Hadjel,2025-10-23,Appel Call Center,Service Client,Résolu,2025-11-03
+CUST0857,Bou Saâda,2025-02-07,Appel Call Center,Service Client,Résolu,2025-02-20
+CUST0858,M'Sila,2025-06-13,Formulaire Web,ADSL,Résolu,2025-06-18
+CUST0859,M'Sila,2025-03-29,Appel Call Center,Facturation,Résolu,2025-04-05
+CUST0860,Bou Saâda,2025-10-08,Plainte Écrite,ADSL,Résolu,2025-10-10
+CUST0861,Sidi Aïssa,2025-09-05,Plainte Écrite,Interruption Réseau,En Cours,
+CUST0862,M'Sila,2025-11-07,Formulaire Web,Fibre FTTH,Résolu,2025-11-14
+CUST0863,Bou Saâda,2025-06-19,Appel Call Center,ADSL,Résolu,2025-06-23
+CUST0864,Bou Saâda,2025-10-04,Formulaire Web,Interruption Réseau,Résolu,2025-10-09
+CUST0865,Sidi Aïssa,2025-02-19,Formulaire Web,Fibre FTTH,Résolu,2025-02-20
+CUST0866,Ain El Hadjel,2025-09-09,Plainte Écrite,Interruption Réseau,Résolu,2025-09-12
+CUST0867,M'Sila,2025-08-07,Formulaire Web,ADSL,Résolu,2025-08-09
+CUST0868,Sidi Aïssa,2025-09-03,Plainte Écrite,Interruption Réseau,Résolu,2025-09-07
+CUST0869,M'Sila,2025-03-29,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0870,Sidi Aïssa,2025-03-01,Appel Call Center,Service Client,Non Traité,
+CUST0871,Sidi Aïssa,2025-09-08,Formulaire Web,Service Client,Résolu,2025-09-19
+CUST0872,Sidi Aïssa,2025-07-18,Appel Call Center,Interruption Réseau,Résolu,2025-07-21
+CUST0873,Sidi Aïssa,2025-04-06,,Facturation,En Cours,
+CUST0874,Ain El Hadjel,2025-08-14,Appel Call Center,Facturation,Résolu,2025-08-22
+CUST0875,Sidi Aïssa,2025-10-16,Appel Call Center,Facturation,Résolu,2025-10-17
+CUST0876,Bou Saâda,2025-02-13,Plainte Écrite,ADSL,Résolu,2025-02-24
+CUST0877,Sidi Aïssa,2025-10-29,Plainte Écrite,Service Client,En Cours,
+CUST0878,Bou Saâda,2025-07-18,Plainte Écrite,ADSL,En Cours,
+CUST0879,Ain El Hadjel,2025-10-21,Plainte Écrite,Service Client,Résolu,2025-10-25
+CUST0880,Ain El Hadjel,2025-07-22,Formulaire Web,ADSL,Résolu,2025-08-05
+CUST0881,M'Sila,2025-09-22,Plainte Écrite,Interruption Réseau,Résolu,2025-10-05
+CUST0882,Bou Saâda,2025-03-30,Appel Call Center,Service Client,En Cours,
+CUST0883,Bou Saâda,2025-03-06,Appel Call Center,Fibre FTTH,Résolu,2025-03-07
+CUST0884,Ain El Hadjel,2025-04-14,Appel Call Center,Service Client,Résolu,2025-04-28
+CUST0885,Bou Saâda,2025-06-13,Plainte Écrite,Facturation,En Cours,
+CUST0886,M'Sila,2025-10-12,Appel Call Center,Service Client,Résolu,2025-10-19
+CUST0887,Sidi Aïssa,2025-08-23,Formulaire Web,Interruption Réseau,En Cours,
+CUST0888,M'Sila,2025-10-28,Plainte Écrite,Interruption Réseau,Résolu,2025-11-06
+CUST0889,Ain El Hadjel,2025-03-18,Appel Call Center,Service Client,Résolu,2025-03-21
+CUST0890,M'Sila,2025-02-21,Appel Call Center,Interruption Réseau,Résolu,2025-03-06
+CUST0891,Sidi Aïssa,2025-07-30,Plainte Écrite,Facturation,En Cours,
+CUST0892,Sidi Aïssa,2025-10-20,Formulaire Web,Service Client,Non Traité,
+CUST0893,Ain El Hadjel,2025-05-22,Appel Call Center,Fibre FTTH,En Cours,
+CUST0894,Ain El Hadjel,2025-11-08,Appel Call Center,Interruption Réseau,Résolu,2025-11-19
+CUST0895,Ain El Hadjel,2025-06-19,Appel Call Center,Service Client,En Cours,
+CUST0896,Bou Saâda,2025-05-18,Appel Call Center,Service Client,Résolu,2025-05-24
+CUST0897,M'Sila,2025-06-09,,Facturation,Résolu,2025-06-14
+CUST0898,Ain El Hadjel,2025-04-27,Plainte Écrite,ADSL,Non Traité,
+CUST0899,Bou Saâda,2025-06-14,Formulaire Web,Service Client,Résolu,2025-06-19
+CUST0900,Ain El Hadjel,2025-04-07,Plainte Écrite,ADSL,Résolu,2025-04-15
+CUST0901,Bou Saâda,2025-09-22,Formulaire Web,Service Client,Résolu,2025-10-06
+CUST0902,Sidi Aïssa,2025-03-23,Appel Call Center,Interruption Réseau,Résolu,2025-03-25
+CUST0903,Sidi Aïssa,2025-07-26,Plainte Écrite,Interruption Réseau,Résolu,2025-07-29
+CUST0904,M'Sila,2025-04-13,Appel Call Center,Fibre FTTH,Résolu,2025-04-27
+CUST0905,M'Sila,2025-08-22,Appel Call Center,ADSL,Résolu,2025-08-23
+CUST0906,Sidi Aïssa,2025-05-21,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST0907,Sidi Aïssa,2025-07-23,Formulaire Web,Interruption Réseau,En Cours,
+CUST0908,M'Sila,2025-05-04,Plainte Écrite,ADSL,Résolu,2025-05-10
+CUST0909,Ain El Hadjel,2025-04-01,Plainte Écrite,Service Client,Résolu,2025-04-15
+CUST0910,Ain El Hadjel,2025-06-29,Plainte Écrite,Interruption Réseau,Résolu,2025-07-05
+CUST0911,Bou Saâda,2025-05-26,Formulaire Web,ADSL,Résolu,2025-05-27
+CUST0912,Ain El Hadjel,2025-10-20,Appel Call Center,Fibre FTTH,Résolu,2025-11-02
+CUST0913,Bou Saâda,2025-12-13,Appel Call Center,Fibre FTTH,En Cours,
+CUST0914,Bou Saâda,2025-09-20,Formulaire Web,Service Client,Résolu,2025-09-21
+CUST0915,M'Sila,2025-11-28,Formulaire Web,Fibre FTTH,Résolu,2025-12-01
+CUST0916,M'Sila,2025-11-08,Appel Call Center,Facturation,Résolu,2025-11-21
+CUST0917,Sidi Aïssa,2025-08-05,Plainte Écrite,Facturation,Résolu,2025-08-12
+CUST0918,Sidi Aïssa,2025-04-22,Formulaire Web,Facturation,Non Traité,
+CUST0919,Ain El Hadjel,2025-11-16,Formulaire Web,Interruption Réseau,En Cours,
+CUST0920,Ain El Hadjel,2025-01-04,Plainte Écrite,ADSL,Résolu,2025-01-13
+CUST0921,Sidi Aïssa,2025-11-08,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST0922,Sidi Aïssa,2025-09-04,Formulaire Web,ADSL,Résolu,2025-09-06
+CUST0923,Sidi Aïssa,2025-05-22,Formulaire Web,Facturation,Non Traité,
+CUST0924,Sidi Aïssa,2025-04-07,Plainte Écrite,Facturation,En Cours,
+CUST0925,Bou Saâda,2025-01-30,Plainte Écrite,Fibre FTTH,Résolu,2025-02-12
+CUST0926,Ain El Hadjel,2025-12-15,,Facturation,Résolu,2025-12-18
+CUST0927,M'Sila,2025-06-01,Plainte Écrite,Service Client,Résolu,2025-06-06
+CUST0928,Ain El Hadjel,2025-01-19,Formulaire Web,Service Client,Résolu,2025-01-29
+CUST0929,Bou Saâda,2025-12-18,Formulaire Web,Fibre FTTH,En Cours,
+CUST0930,Ain El Hadjel,2025-09-17,Plainte Écrite,Facturation,Résolu,2025-09-22
+CUST0931,Bou Saâda,2025-04-03,Plainte Écrite,Interruption Réseau,Résolu,2025-04-08
+CUST0932,M'Sila,2025-05-13,Formulaire Web,Fibre FTTH,En Cours,
+CUST0933,Bou Saâda,2025-12-02,Plainte Écrite,Facturation,Non Traité,
+CUST0934,M'Sila,2025-04-25,Appel Call Center,Facturation,Résolu,2025-05-07
+CUST0935,Sidi Aïssa,2025-07-10,Formulaire Web,Facturation,Résolu,2025-07-15
+CUST0936,Sidi Aïssa,2025-08-29,Formulaire Web,ADSL,Résolu,2025-08-30
+CUST0937,M'Sila,2025-09-14,Formulaire Web,Fibre FTTH,Résolu,2025-09-16
+CUST0938,Ain El Hadjel,2025-07-31,Plainte Écrite,Facturation,Non Traité,
+CUST0939,M'Sila,2025-04-13,Appel Call Center,Fibre FTTH,Résolu,2025-04-19
+CUST0940,Ain El Hadjel,2025-03-15,Plainte Écrite,Service Client,Résolu,2025-03-21
+CUST0941,Bou Saâda,2025-06-20,Appel Call Center,Service Client,Résolu,2025-07-01
+CUST0942,Bou Saâda,2025-01-03,Formulaire Web,ADSL,Résolu,2025-01-11
+CUST0943,Sidi Aïssa,2025-10-23,Appel Call Center,Fibre FTTH,En Cours,
+CUST0944,Bou Saâda,2025-03-08,Formulaire Web,ADSL,En Cours,
+CUST0945,Ain El Hadjel,2025-07-26,Plainte Écrite,Service Client,Résolu,2025-08-02
+CUST0946,Ain El Hadjel,2025-01-20,Formulaire Web,ADSL,Résolu,2025-01-29
+CUST0947,Bou Saâda,2025-01-08,,Facturation,Résolu,2025-01-14
+CUST0948,Bou Saâda,2025-11-17,Appel Call Center,ADSL,Non Traité,
+CUST0949,Bou Saâda,2025-06-09,Appel Call Center,Facturation,Non Traité,
+CUST0950,Bou Saâda,2025-09-15,Appel Call Center,Service Client,Résolu,2025-09-25
+CUST0951,Sidi Aïssa,2025-01-24,Appel Call Center,ADSL,En Cours,
+CUST0952,Sidi Aïssa,2025-09-24,Formulaire Web,Service Client,En Cours,
+CUST0953,Sidi Aïssa,2025-06-25,Formulaire Web,Fibre FTTH,Résolu,2025-07-03
+CUST0954,Sidi Aïssa,2025-07-26,Appel Call Center,Fibre FTTH,Non Traité,
+CUST0955,M'Sila,2025-03-09,Appel Call Center,Fibre FTTH,Résolu,2025-03-13
+CUST0956,M'Sila,2025-03-28,Plainte Écrite,Interruption Réseau,Résolu,2025-03-30
+CUST0957,Sidi Aïssa,2025-07-12,Plainte Écrite,ADSL,Résolu,2025-07-23
+CUST0958,Sidi Aïssa,2025-01-25,Plainte Écrite,Interruption Réseau,Résolu,2025-02-04
+CUST0959,M'Sila,2025-12-01,Plainte Écrite,ADSL,Résolu,2025-12-15
+CUST0960,M'Sila,2025-08-02,Appel Call Center,ADSL,En Cours,
+CUST0961,Ain El Hadjel,2025-10-08,Formulaire Web,ADSL,Résolu,2025-10-13
+CUST0962,Ain El Hadjel,2025-04-16,Plainte Écrite,Fibre FTTH,En Cours,
+CUST0963,M'Sila,2025-12-05,Formulaire Web,Service Client,Résolu,2025-12-07
+CUST0964,Sidi Aïssa,2025-12-25,Plainte Écrite,Interruption Réseau,Résolu,2025-12-28
+CUST0965,Ain El Hadjel,2025-11-13,Appel Call Center,Interruption Réseau,Résolu,2025-11-15
+CUST0966,Sidi Aïssa,2025-09-12,Appel Call Center,ADSL,Résolu,2025-09-16
+CUST0967,Bou Saâda,2025-04-14,Formulaire Web,Interruption Réseau,En Cours,
+CUST0968,Sidi Aïssa,2025-06-01,Plainte Écrite,Service Client,Résolu,2025-06-04
+CUST0969,M'Sila,2025-04-17,Plainte Écrite,Service Client,Résolu,2025-04-29
+CUST0970,Ain El Hadjel,2025-01-02,Formulaire Web,Fibre FTTH,Résolu,2025-01-03
+CUST0971,M'Sila,2025-12-09,Appel Call Center,Interruption Réseau,En Cours,
+CUST0972,Ain El Hadjel,2025-09-19,Appel Call Center,ADSL,Non Traité,
+CUST0973,M'Sila,2025-05-12,Plainte Écrite,ADSL,En Cours,
+CUST0974,Bou Saâda,2025-05-16,Formulaire Web,Facturation,Résolu,2025-05-24
+CUST0975,M'Sila,2025-01-21,Appel Call Center,Fibre FTTH,Résolu,2025-02-04
+CUST0976,Sidi Aïssa,2025-08-07,Formulaire Web,Facturation,Résolu,2025-08-19
+CUST0977,M'Sila,2025-01-05,Appel Call Center,ADSL,Résolu,2025-01-19
+CUST0978,Bou Saâda,2025-06-18,Plainte Écrite,Fibre FTTH,Résolu,2025-06-24
+CUST0979,Ain El Hadjel,2025-02-17,Plainte Écrite,Facturation,Résolu,2025-02-23
+CUST0980,Sidi Aïssa,2025-07-25,Appel Call Center,ADSL,Résolu,2025-08-01
+CUST0981,Ain El Hadjel,2025-12-20,Formulaire Web,Service Client,Résolu,2025-12-31
+CUST0982,Ain El Hadjel,2025-02-27,Formulaire Web,Fibre FTTH,En Cours,
+CUST0983,Bou Saâda,2025-03-23,Plainte Écrite,ADSL,Résolu,2025-03-25
+CUST0984,Ain El Hadjel,2025-10-19,Plainte Écrite,Service Client,Résolu,2025-10-30
+CUST0985,Ain El Hadjel,2025-07-14,Appel Call Center,Interruption Réseau,En Cours,
+CUST0986,Sidi Aïssa,2025-12-17,Plainte Écrite,ADSL,Résolu,2025-12-31
+CUST0987,Bou Saâda,2025-02-27,Formulaire Web,Service Client,En Cours,
+CUST0988,Ain El Hadjel,2025-02-02,Formulaire Web,ADSL,Résolu,2025-02-07
+CUST0989,Sidi Aïssa,2025-10-23,Appel Call Center,Interruption Réseau,Résolu,2025-11-04
+CUST0990,Bou Saâda,2025-09-23,Plainte Écrite,Facturation,En Cours,
+CUST0991,M'Sila,2025-09-04,Formulaire Web,Fibre FTTH,En Cours,
+CUST0992,Sidi Aïssa,2025-03-18,Plainte Écrite,Service Client,En Cours,
+CUST0993,M'Sila,2025-09-16,Appel Call Center,Fibre FTTH,Résolu,2025-09-30
+CUST0994,Ain El Hadjel,2025-02-08,Formulaire Web,Fibre FTTH,Résolu,2025-02-21
+CUST0995,Ain El Hadjel,2025-06-19,Formulaire Web,Fibre FTTH,Résolu,2025-06-24
+CUST0996,M'Sila,2025-10-09,Plainte Écrite,Fibre FTTH,Résolu,2025-10-20
+CUST0997,Ain El Hadjel,2025-02-10,Formulaire Web,Fibre FTTH,Non Traité,
+CUST0998,Ain El Hadjel,2025-08-18,Formulaire Web,Interruption Réseau,Résolu,2025-08-20
+CUST0999,Ain El Hadjel,2025-03-02,Formulaire Web,Facturation,Non Traité,
+CUST1000,Ain El Hadjel,2025-02-22,Plainte Écrite,ADSL,Résolu,2025-03-01
+CUST1001,Ain El Hadjel,2025-10-09,Appel Call Center,Interruption Réseau,Résolu,2025-10-10
+CUST1002,M'Sila,2025-11-23,Plainte Écrite,Interruption Réseau,Résolu,2025-11-28
+CUST1003,Bou Saâda,2025-06-24,Plainte Écrite,Service Client,Non Traité,
+CUST1004,Sidi Aïssa,2025-08-21,Appel Call Center,Fibre FTTH,En Cours,
+CUST1005,Sidi Aïssa,2025-11-04,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1006,Ain El Hadjel,2025-08-20,Plainte Écrite,Facturation,En Cours,
+CUST1007,M'Sila,2025-01-02,Appel Call Center,Fibre FTTH,En Cours,
+CUST1008,Sidi Aïssa,2025-10-08,Formulaire Web,Facturation,En Cours,
+CUST1009,Sidi Aïssa,2025-01-24,,ADSL,Résolu,2025-01-27
+CUST1010,Ain El Hadjel,2025-02-24,Appel Call Center,Service Client,Résolu,2025-03-01
+CUST1011,Bou Saâda,2025-07-21,Appel Call Center,ADSL,Résolu,2025-07-25
+CUST1012,Ain El Hadjel,2025-02-25,Appel Call Center,Facturation,Non Traité,
+CUST1013,Ain El Hadjel,2025-03-05,Appel Call Center,Interruption Réseau,Non Traité,
+CUST1014,Ain El Hadjel,2025-09-16,Formulaire Web,Interruption Réseau,Résolu,2025-09-19
+CUST1015,Ain El Hadjel,2025-01-25,Appel Call Center,Interruption Réseau,En Cours,
+CUST1016,Ain El Hadjel,2025-09-18,Plainte Écrite,Service Client,Non Traité,
+CUST1017,Bou Saâda,2025-03-30,Plainte Écrite,Interruption Réseau,Résolu,2025-04-11
+CUST1018,Bou Saâda,2025-12-03,Appel Call Center,Service Client,Résolu,2025-12-13
+CUST1019,Sidi Aïssa,2025-08-03,Plainte Écrite,Service Client,Non Traité,
+CUST1020,Bou Saâda,2025-06-25,Formulaire Web,Service Client,Résolu,2025-06-30
+CUST1021,Ain El Hadjel,2025-07-31,Appel Call Center,Fibre FTTH,En Cours,
+CUST1022,Sidi Aïssa,2025-06-10,Plainte Écrite,Interruption Réseau,Résolu,2025-06-22
+CUST1023,Bou Saâda,2025-11-16,Appel Call Center,Fibre FTTH,Non Traité,
+CUST1024,Sidi Aïssa,2025-12-11,Plainte Écrite,Facturation,Non Traité,
+CUST1025,Bou Saâda,2025-09-15,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST1026,Sidi Aïssa,2025-06-30,Plainte Écrite,ADSL,Résolu,2025-07-09
+CUST1027,Ain El Hadjel,2025-12-08,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1028,Ain El Hadjel,2025-05-27,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1029,Ain El Hadjel,2025-02-24,Appel Call Center,Interruption Réseau,Résolu,2025-02-25
+CUST1030,Ain El Hadjel,2025-12-10,Appel Call Center,ADSL,En Cours,
+CUST1031,M'Sila,2025-03-24,Appel Call Center,Facturation,Résolu,2025-03-29
+CUST1032,Sidi Aïssa,2025-12-20,Appel Call Center,ADSL,Résolu,2025-12-31
+CUST1033,Sidi Aïssa,2025-01-17,Appel Call Center,Interruption Réseau,Résolu,2025-01-23
+CUST1034,Ain El Hadjel,2025-12-12,Appel Call Center,Interruption Réseau,Résolu,2025-12-24
+CUST1035,Bou Saâda,2025-07-19,Plainte Écrite,Interruption Réseau,Résolu,2025-07-23
+CUST1036,Sidi Aïssa,2025-07-15,Plainte Écrite,ADSL,En Cours,
+CUST1037,Ain El Hadjel,2025-10-10,Formulaire Web,Facturation,Résolu,2025-10-11
+CUST1038,M'Sila,2025-04-14,Plainte Écrite,Facturation,En Cours,
+CUST1039,Ain El Hadjel,2025-10-29,Appel Call Center,Facturation,Résolu,2025-11-07
+CUST1040,Bou Saâda,2025-05-31,Plainte Écrite,Fibre FTTH,Résolu,2025-06-08
+CUST1041,Bou Saâda,2025-04-06,Plainte Écrite,ADSL,Résolu,2025-04-09
+CUST1042,M'Sila,2025-08-08,Formulaire Web,ADSL,En Cours,
+CUST1043,Sidi Aïssa,2025-03-08,Plainte Écrite,Facturation,Résolu,2025-03-11
+CUST1044,Sidi Aïssa,2025-08-27,Appel Call Center,Facturation,En Cours,
+CUST1045,Bou Saâda,2025-06-15,Appel Call Center,Fibre FTTH,Non Traité,
+CUST1046,M'Sila,2025-12-05,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1047,Sidi Aïssa,2025-10-09,Formulaire Web,Interruption Réseau,Résolu,2025-10-15
+CUST1048,M'Sila,2025-09-27,Plainte Écrite,Facturation,Résolu,2025-10-01
+CUST1049,Bou Saâda,2025-09-16,Plainte Écrite,ADSL,Non Traité,
+CUST1050,Bou Saâda,2025-10-02,Formulaire Web,Interruption Réseau,Résolu,2025-10-09
+CUST1051,M'Sila,2025-04-20,Formulaire Web,Fibre FTTH,Non Traité,
+CUST1052,Sidi Aïssa,2025-05-31,Formulaire Web,Facturation,Résolu,2025-06-04
+CUST1053,Ain El Hadjel,2025-02-28,Plainte Écrite,ADSL,Non Traité,
+CUST1054,Sidi Aïssa,2025-11-25,Formulaire Web,Fibre FTTH,En Cours,
+CUST1055,Bou Saâda,2025-07-15,Appel Call Center,Facturation,Non Traité,
+CUST1056,M'Sila,2025-10-04,Formulaire Web,Facturation,Résolu,2025-10-16
+CUST1057,Sidi Aïssa,2025-07-11,Appel Call Center,Interruption Réseau,En Cours,
+CUST1058,Ain El Hadjel,2025-06-01,Formulaire Web,ADSL,Résolu,2025-06-12
+CUST1059,Bou Saâda,2025-02-12,Formulaire Web,Interruption Réseau,Résolu,2025-02-14
+CUST1060,Bou Saâda,2025-01-04,,Interruption Réseau,En Cours,
+CUST1061,M'Sila,2025-12-17,Appel Call Center,Fibre FTTH,Non Traité,
+CUST1062,Ain El Hadjel,2025-10-03,Appel Call Center,Fibre FTTH,Non Traité,
+CUST1063,Ain El Hadjel,2025-12-18,Plainte Écrite,ADSL,En Cours,
+CUST1064,Bou Saâda,2025-06-19,Appel Call Center,Service Client,Résolu,2025-06-20
+CUST1065,M'Sila,2025-04-02,Appel Call Center,ADSL,Résolu,2025-04-15
+CUST1066,Sidi Aïssa,2025-10-22,Plainte Écrite,ADSL,En Cours,
+CUST1067,Bou Saâda,2025-07-18,,Service Client,Résolu,2025-07-26
+CUST1068,Ain El Hadjel,2025-01-09,Formulaire Web,Facturation,Résolu,2025-01-16
+CUST1069,M'Sila,2025-11-25,Plainte Écrite,ADSL,Résolu,2025-12-07
+CUST1070,M'Sila,2025-01-24,Plainte Écrite,Interruption Réseau,Résolu,2025-02-05
+CUST1071,M'Sila,2025-02-24,,Interruption Réseau,Résolu,2025-03-01
+CUST1072,Sidi Aïssa,2025-05-25,Plainte Écrite,ADSL,Résolu,2025-06-07
+CUST1073,Ain El Hadjel,2025-12-05,Formulaire Web,Service Client,Résolu,2025-12-06
+CUST1074,Ain El Hadjel,2025-04-23,Appel Call Center,Interruption Réseau,Résolu,2025-04-26
+CUST1075,Ain El Hadjel,2025-11-21,Plainte Écrite,Facturation,Non Traité,
+CUST1076,Bou Saâda,2025-01-06,,Facturation,Résolu,2025-01-15
+CUST1077,Bou Saâda,2025-01-03,Appel Call Center,ADSL,Résolu,2025-01-13
+CUST1078,Ain El Hadjel,2025-02-13,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1079,Sidi Aïssa,2025-04-19,,Facturation,Résolu,2025-04-26
+CUST1080,Bou Saâda,2025-04-24,Appel Call Center,Fibre FTTH,Non Traité,
+CUST1081,Sidi Aïssa,2025-04-03,Appel Call Center,ADSL,En Cours,
+CUST1082,M'Sila,2025-11-27,Plainte Écrite,Service Client,Résolu,2025-12-06
+CUST1083,M'Sila,2025-05-09,Formulaire Web,ADSL,Résolu,2025-05-11
+CUST1084,Bou Saâda,2025-09-07,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1085,Sidi Aïssa,2025-12-10,Formulaire Web,Fibre FTTH,Non Traité,
+CUST1086,Bou Saâda,2025-11-14,Appel Call Center,Facturation,Résolu,2025-11-16
+CUST1087,Bou Saâda,2025-08-19,Formulaire Web,Service Client,En Cours,
+CUST1088,Sidi Aïssa,2025-12-22,Plainte Écrite,Facturation,Résolu,2025-12-31
+CUST1089,Bou Saâda,2025-07-06,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1090,Sidi Aïssa,2025-01-03,Formulaire Web,Fibre FTTH,Résolu,2025-01-09
+CUST1091,Bou Saâda,2025-05-22,Appel Call Center,Service Client,Non Traité,
+CUST1092,Sidi Aïssa,2025-09-03,Appel Call Center,Facturation,En Cours,
+CUST1093,Ain El Hadjel,2025-06-06,Formulaire Web,Facturation,En Cours,
+CUST1094,Ain El Hadjel,2025-03-31,Plainte Écrite,ADSL,Résolu,2025-04-11
+CUST1095,M'Sila,2025-10-03,Formulaire Web,Fibre FTTH,Résolu,2025-10-07
+CUST1096,Sidi Aïssa,2025-02-08,Plainte Écrite,ADSL,Résolu,2025-02-09
+CUST1097,M'Sila,2025-07-27,Plainte Écrite,Interruption Réseau,Résolu,2025-08-09
+CUST1098,Bou Saâda,2025-05-14,Appel Call Center,Interruption Réseau,Résolu,2025-05-23
+CUST1099,Ain El Hadjel,2025-07-07,Plainte Écrite,Fibre FTTH,En Cours,
+CUST1100,Ain El Hadjel,2025-05-29,Appel Call Center,Interruption Réseau,Résolu,2025-06-01
+CUST1101,Ain El Hadjel,2025-02-16,Plainte Écrite,Interruption Réseau,Résolu,2025-02-23
+CUST1102,Sidi Aïssa,2025-12-06,Plainte Écrite,ADSL,Non Traité,
+CUST1103,Bou Saâda,2025-09-21,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST1104,Bou Saâda,2025-04-02,Formulaire Web,Fibre FTTH,Non Traité,
+CUST1105,Bou Saâda,2025-07-03,Plainte Écrite,Service Client,Non Traité,
+CUST1106,M'Sila,2025-04-29,Appel Call Center,Service Client,Résolu,2025-05-01
+CUST1107,Sidi Aïssa,2025-01-22,Formulaire Web,Fibre FTTH,Résolu,2025-02-02
+CUST1108,Bou Saâda,2025-07-18,Plainte Écrite,Facturation,En Cours,
+CUST1109,Ain El Hadjel,2025-01-21,Formulaire Web,ADSL,En Cours,
+CUST1110,Sidi Aïssa,2025-11-21,Appel Call Center,Interruption Réseau,Résolu,2025-12-05
+CUST1111,Sidi Aïssa,2025-10-24,Plainte Écrite,Facturation,En Cours,
+CUST1112,Bou Saâda,2025-07-07,Formulaire Web,Service Client,Résolu,2025-07-17
+CUST1113,M'Sila,2025-07-12,Plainte Écrite,Facturation,Résolu,2025-07-16
+CUST1114,Ain El Hadjel,2025-09-07,Formulaire Web,Facturation,Résolu,2025-09-20
+CUST1115,Ain El Hadjel,2025-09-14,,ADSL,Résolu,2025-09-17
+CUST1116,Ain El Hadjel,2025-02-09,,Fibre FTTH,Résolu,2025-02-18
+CUST1117,Sidi Aïssa,2025-04-06,Appel Call Center,Fibre FTTH,Résolu,2025-04-09
+CUST1118,Sidi Aïssa,2025-12-05,Plainte Écrite,ADSL,Non Traité,
+CUST1119,Bou Saâda,2025-02-28,Formulaire Web,Facturation,Résolu,2025-03-08
+CUST1120,Ain El Hadjel,2025-10-30,Formulaire Web,Fibre FTTH,Résolu,2025-11-02
+CUST1121,Ain El Hadjel,2025-01-23,Appel Call Center,Fibre FTTH,Non Traité,
+CUST1122,Bou Saâda,2025-03-24,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1123,Bou Saâda,2025-01-21,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1124,Bou Saâda,2025-05-13,Appel Call Center,Fibre FTTH,En Cours,
+CUST1125,Bou Saâda,2025-11-03,Plainte Écrite,Service Client,En Cours,
+CUST1126,M'Sila,2025-02-13,Plainte Écrite,Facturation,Résolu,2025-02-17
+CUST1127,Ain El Hadjel,2025-09-04,Plainte Écrite,Service Client,Résolu,2025-09-07
+CUST1128,Bou Saâda,2025-03-15,Formulaire Web,Interruption Réseau,Résolu,2025-03-28
+CUST1129,Bou Saâda,2025-05-16,Plainte Écrite,Interruption Réseau,Résolu,2025-05-19
+CUST1130,Sidi Aïssa,2025-10-30,Formulaire Web,Interruption Réseau,Résolu,2025-11-01
+CUST1131,Bou Saâda,2025-03-09,Formulaire Web,Service Client,En Cours,
+CUST1132,M'Sila,2025-09-25,Appel Call Center,Fibre FTTH,Résolu,2025-10-09
+CUST1133,Ain El Hadjel,2025-02-19,Appel Call Center,Interruption Réseau,Résolu,2025-02-22
+CUST1134,Ain El Hadjel,2025-01-20,Plainte Écrite,Interruption Réseau,Résolu,2025-02-02
+CUST1135,M'Sila,2025-12-04,Appel Call Center,Service Client,En Cours,
+CUST1136,Bou Saâda,2025-01-01,Plainte Écrite,Interruption Réseau,Résolu,2025-01-14
+CUST1137,Ain El Hadjel,2025-07-09,Plainte Écrite,Service Client,Non Traité,
+CUST1138,M'Sila,2025-08-08,Plainte Écrite,Interruption Réseau,Résolu,2025-08-12
+CUST1139,Ain El Hadjel,2025-10-29,Formulaire Web,Facturation,Résolu,2025-11-11
+CUST1140,M'Sila,2025-05-11,Formulaire Web,Fibre FTTH,Résolu,2025-05-19
+CUST1141,Bou Saâda,2025-11-03,Appel Call Center,Facturation,En Cours,
+CUST1142,Ain El Hadjel,2025-01-03,Formulaire Web,Fibre FTTH,Résolu,2025-01-15
+CUST1143,M'Sila,2025-03-02,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1144,M'Sila,2025-12-19,Formulaire Web,Fibre FTTH,Résolu,2025-12-31
+CUST1145,Sidi Aïssa,2025-02-24,Formulaire Web,Facturation,Résolu,2025-02-27
+CUST1146,Ain El Hadjel,2025-05-10,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1147,Sidi Aïssa,2025-10-17,Plainte Écrite,Service Client,En Cours,
+CUST1148,Sidi Aïssa,2025-12-15,Plainte Écrite,Facturation,En Cours,
+CUST1149,Ain El Hadjel,2025-10-10,Appel Call Center,Service Client,Non Traité,
+CUST1150,Ain El Hadjel,2025-10-14,Appel Call Center,Facturation,Non Traité,
+CUST1151,Ain El Hadjel,2025-10-23,Formulaire Web,Facturation,En Cours,
+CUST1152,Sidi Aïssa,2025-03-12,Plainte Écrite,Service Client,En Cours,
+CUST1153,M'Sila,2025-08-17,Plainte Écrite,Fibre FTTH,En Cours,
+CUST1154,Bou Saâda,2025-09-18,Appel Call Center,Fibre FTTH,En Cours,
+CUST1155,Ain El Hadjel,2025-11-11,Formulaire Web,Interruption Réseau,En Cours,
+CUST1156,M'Sila,2025-11-22,Appel Call Center,Service Client,En Cours,
+CUST1157,M'Sila,2025-08-30,Appel Call Center,Fibre FTTH,Résolu,2025-09-09
+CUST1158,Ain El Hadjel,2025-05-15,Appel Call Center,ADSL,Non Traité,
+CUST1159,Bou Saâda,2025-11-08,Formulaire Web,ADSL,Non Traité,
+CUST1160,M'Sila,2025-07-25,Plainte Écrite,Service Client,Résolu,2025-08-04
+CUST1161,Sidi Aïssa,2025-01-30,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1162,Bou Saâda,2025-08-13,,Service Client,Résolu,2025-08-14
+CUST1163,Bou Saâda,2025-05-27,Plainte Écrite,Interruption Réseau,Résolu,2025-05-31
+CUST1164,M'Sila,2025-09-22,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1165,Bou Saâda,2025-12-12,Plainte Écrite,Fibre FTTH,Résolu,2025-12-13
+CUST1166,Sidi Aïssa,2025-03-22,,ADSL,En Cours,
+CUST1167,M'Sila,2025-06-30,Formulaire Web,Service Client,En Cours,
+CUST1168,Ain El Hadjel,2025-04-13,Formulaire Web,Interruption Réseau,Résolu,2025-04-22
+CUST1169,M'Sila,2025-02-16,Plainte Écrite,ADSL,Résolu,2025-02-25
+CUST1170,Sidi Aïssa,2025-10-26,Plainte Écrite,Interruption Réseau,Résolu,2025-11-01
+CUST1171,Sidi Aïssa,2025-11-07,,Fibre FTTH,En Cours,
+CUST1172,Bou Saâda,2025-10-22,Formulaire Web,Service Client,Non Traité,
+CUST1173,M'Sila,2025-07-28,Formulaire Web,Fibre FTTH,En Cours,
+CUST1174,M'Sila,2025-09-15,Plainte Écrite,ADSL,Résolu,2025-09-20
+CUST1175,Sidi Aïssa,2025-05-12,Appel Call Center,Interruption Réseau,En Cours,
+CUST1176,Sidi Aïssa,2025-07-13,Plainte Écrite,Service Client,Résolu,2025-07-23
+CUST1177,Ain El Hadjel,2025-08-23,Appel Call Center,Facturation,En Cours,
+CUST1178,Ain El Hadjel,2025-09-04,Plainte Écrite,ADSL,Résolu,2025-09-06
+CUST1179,Sidi Aïssa,2025-11-21,Appel Call Center,Service Client,En Cours,
+CUST1180,Bou Saâda,2025-06-11,Plainte Écrite,Fibre FTTH,Résolu,2025-06-18
+CUST1181,Sidi Aïssa,2025-01-05,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1182,Sidi Aïssa,2025-02-17,Appel Call Center,Facturation,Résolu,2025-02-24
+CUST1183,Sidi Aïssa,2025-04-02,Appel Call Center,Interruption Réseau,En Cours,
+CUST1184,Ain El Hadjel,2025-04-22,Formulaire Web,Facturation,Non Traité,
+CUST1185,Sidi Aïssa,2025-09-13,Appel Call Center,Fibre FTTH,Résolu,2025-09-25
+CUST1186,Bou Saâda,2025-05-16,Appel Call Center,Fibre FTTH,Non Traité,
+CUST1187,Bou Saâda,2025-05-08,Appel Call Center,Fibre FTTH,En Cours,
+CUST1188,Sidi Aïssa,2025-03-03,Appel Call Center,ADSL,Résolu,2025-03-05
+CUST1189,Ain El Hadjel,2025-10-05,Plainte Écrite,ADSL,Résolu,2025-10-06
+CUST1190,Ain El Hadjel,2025-06-11,Formulaire Web,Interruption Réseau,En Cours,
+CUST1191,Ain El Hadjel,2025-09-09,Plainte Écrite,Facturation,Résolu,2025-09-12
+CUST1192,Sidi Aïssa,2025-10-23,Formulaire Web,Fibre FTTH,Résolu,2025-10-26
+CUST1193,M'Sila,2025-09-02,Plainte Écrite,Service Client,Résolu,2025-09-11
+CUST1194,M'Sila,2025-07-21,Plainte Écrite,Facturation,En Cours,
+CUST1195,Bou Saâda,2025-12-24,,ADSL,Résolu,2025-12-31
+CUST1196,Ain El Hadjel,2025-01-07,Formulaire Web,ADSL,Non Traité,
+CUST1197,Bou Saâda,2025-02-21,Formulaire Web,Interruption Réseau,Non Traité,
+CUST1198,Sidi Aïssa,2025-05-13,Formulaire Web,Interruption Réseau,Non Traité,
+CUST1199,Bou Saâda,2025-05-02,Plainte Écrite,Facturation,En Cours,
+CUST1200,Sidi Aïssa,2025-06-25,Formulaire Web,Interruption Réseau,Résolu,2025-07-01
+CUST1201,Bou Saâda,2025-04-18,Formulaire Web,Service Client,En Cours,
+CUST1202,Ain El Hadjel,2025-07-06,Plainte Écrite,Facturation,Résolu,2025-07-20
+CUST1203,Ain El Hadjel,2025-04-03,,Service Client,Résolu,2025-04-13
+CUST1204,Bou Saâda,2025-02-21,Plainte Écrite,Fibre FTTH,Résolu,2025-03-05
+CUST1205,Sidi Aïssa,2025-08-10,Appel Call Center,Interruption Réseau,Résolu,2025-08-24
+CUST1206,Ain El Hadjel,2025-03-18,Appel Call Center,Fibre FTTH,En Cours,
+CUST1207,Ain El Hadjel,2025-08-04,Appel Call Center,Fibre FTTH,En Cours,
+CUST1208,Ain El Hadjel,2025-10-01,Appel Call Center,Interruption Réseau,Résolu,2025-10-13
+CUST1209,Sidi Aïssa,2025-05-09,Formulaire Web,Facturation,Résolu,2025-05-18
+CUST1210,M'Sila,2025-12-20,Formulaire Web,ADSL,Non Traité,
+CUST1211,Bou Saâda,2025-05-11,Appel Call Center,Fibre FTTH,Résolu,2025-05-19
+CUST1212,M'Sila,2025-05-14,Formulaire Web,Facturation,Résolu,2025-05-20
+CUST1213,Sidi Aïssa,2025-05-12,Plainte Écrite,Interruption Réseau,Résolu,2025-05-18
+CUST1214,M'Sila,2025-06-29,Formulaire Web,ADSL,En Cours,
+CUST1215,Bou Saâda,2025-11-29,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1216,Bou Saâda,2025-06-16,,Facturation,Résolu,2025-06-27
+CUST1217,Ain El Hadjel,2025-02-10,Plainte Écrite,Service Client,Résolu,2025-02-17
+CUST1218,Sidi Aïssa,2025-03-27,Formulaire Web,Fibre FTTH,En Cours,
+CUST1219,Sidi Aïssa,2025-10-20,Formulaire Web,Interruption Réseau,En Cours,
+CUST1220,Ain El Hadjel,2025-03-24,Appel Call Center,ADSL,Résolu,2025-03-30
+CUST1221,Bou Saâda,2025-12-01,Formulaire Web,Facturation,Non Traité,
+CUST1222,Sidi Aïssa,2025-11-06,Plainte Écrite,Facturation,Résolu,2025-11-17
+CUST1223,Ain El Hadjel,2025-07-05,,Service Client,Résolu,2025-07-17
+CUST1224,Ain El Hadjel,2025-04-05,Formulaire Web,Fibre FTTH,Non Traité,
+CUST1225,M'Sila,2025-12-05,Appel Call Center,Fibre FTTH,Résolu,2025-12-10
+CUST1226,M'Sila,2025-07-23,Appel Call Center,Fibre FTTH,En Cours,
+CUST1227,M'Sila,2025-08-31,Appel Call Center,ADSL,Résolu,2025-09-09
+CUST1228,M'Sila,2025-09-26,Appel Call Center,Service Client,Résolu,2025-10-09
+CUST1229,M'Sila,2025-11-13,Appel Call Center,Facturation,Non Traité,
+CUST1230,Bou Saâda,2025-06-08,Appel Call Center,Service Client,Résolu,2025-06-12
+CUST1231,Bou Saâda,2025-08-15,Plainte Écrite,Facturation,Non Traité,
+CUST1232,Bou Saâda,2025-03-29,Appel Call Center,Interruption Réseau,Résolu,2025-03-30
+CUST1233,M'Sila,2025-06-16,Plainte Écrite,Facturation,Résolu,2025-06-30
+CUST1234,Ain El Hadjel,2025-05-20,Formulaire Web,Interruption Réseau,Résolu,2025-05-29
+CUST1235,Ain El Hadjel,2025-04-01,Appel Call Center,Interruption Réseau,En Cours,
+CUST1236,Ain El Hadjel,2025-08-11,Plainte Écrite,Interruption Réseau,Résolu,2025-08-20
+CUST1237,Sidi Aïssa,2025-10-04,Formulaire Web,Service Client,Non Traité,
+CUST1238,Bou Saâda,2025-06-07,Appel Call Center,Service Client,Résolu,2025-06-13
+CUST1239,Ain El Hadjel,2025-06-05,Formulaire Web,Fibre FTTH,Non Traité,
+CUST1240,M'Sila,2025-03-11,Appel Call Center,Interruption Réseau,Résolu,2025-03-17
+CUST1241,Sidi Aïssa,2025-01-05,Formulaire Web,Interruption Réseau,Non Traité,
+CUST1242,Ain El Hadjel,2025-01-05,Formulaire Web,Facturation,En Cours,
+CUST1243,Ain El Hadjel,2025-04-29,Formulaire Web,Interruption Réseau,En Cours,
+CUST1244,M'Sila,2025-04-07,Plainte Écrite,Facturation,En Cours,
+CUST1245,Ain El Hadjel,2025-07-22,Plainte Écrite,Service Client,En Cours,
+CUST1246,Bou Saâda,2025-07-13,Appel Call Center,Service Client,En Cours,
+CUST1247,Bou Saâda,2025-08-05,Formulaire Web,ADSL,Résolu,2025-08-16
+CUST1248,Bou Saâda,2025-12-22,,Interruption Réseau,Résolu,2025-12-31
+CUST1249,Sidi Aïssa,2025-05-18,,Interruption Réseau,Non Traité,
+CUST1250,Ain El Hadjel,2025-04-04,Appel Call Center,ADSL,En Cours,
+CUST1251,Bou Saâda,2025-11-23,Formulaire Web,ADSL,En Cours,
+CUST1252,Ain El Hadjel,2025-05-20,Plainte Écrite,Service Client,Résolu,2025-06-01
+CUST1253,Ain El Hadjel,2025-01-10,Appel Call Center,Facturation,Résolu,2025-01-13
+CUST1254,M'Sila,2025-04-06,Plainte Écrite,ADSL,Résolu,2025-04-08
+CUST1255,Sidi Aïssa,2025-08-13,Formulaire Web,Fibre FTTH,En Cours,
+CUST1256,M'Sila,2025-03-19,Appel Call Center,ADSL,Résolu,2025-03-20
+CUST1257,Ain El Hadjel,2025-08-04,,Facturation,Résolu,2025-08-09
+CUST1258,Ain El Hadjel,2025-12-23,Formulaire Web,Service Client,Résolu,2025-12-31
+CUST1259,M'Sila,2025-03-16,Formulaire Web,ADSL,Résolu,2025-03-17
+CUST1260,Sidi Aïssa,2025-10-06,Formulaire Web,ADSL,Résolu,2025-10-14
+CUST1261,Bou Saâda,2025-07-15,Appel Call Center,Facturation,Résolu,2025-07-29
+CUST1262,M'Sila,2025-07-17,Appel Call Center,Fibre FTTH,En Cours,
+CUST1263,Ain El Hadjel,2025-04-12,Appel Call Center,ADSL,Résolu,2025-04-20
+CUST1264,M'Sila,2025-08-31,Plainte Écrite,Fibre FTTH,Résolu,2025-09-07
+CUST1265,Sidi Aïssa,2025-11-19,Formulaire Web,Fibre FTTH,Résolu,2025-12-01
+CUST1266,M'Sila,2025-09-24,Plainte Écrite,Interruption Réseau,Résolu,2025-09-26
+CUST1267,Sidi Aïssa,2025-04-12,Formulaire Web,Facturation,Résolu,2025-04-18
+CUST1268,M'Sila,2025-02-27,Plainte Écrite,Fibre FTTH,Résolu,2025-03-03
+CUST1269,Ain El Hadjel,2025-03-27,Formulaire Web,ADSL,En Cours,
+CUST1270,Sidi Aïssa,2025-07-22,Plainte Écrite,ADSL,Résolu,2025-08-04
+CUST1271,Bou Saâda,2025-10-25,Appel Call Center,ADSL,En Cours,
+CUST1272,Ain El Hadjel,2025-03-21,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1273,Sidi Aïssa,2025-03-22,Appel Call Center,Fibre FTTH,En Cours,
+CUST1274,Ain El Hadjel,2025-06-23,,Interruption Réseau,Résolu,2025-07-06
+CUST1275,M'Sila,2025-11-27,Appel Call Center,Facturation,Résolu,2025-11-30
+CUST1276,M'Sila,2025-04-30,Appel Call Center,Service Client,Résolu,2025-05-06
+CUST1277,Sidi Aïssa,2025-01-11,Formulaire Web,Fibre FTTH,Résolu,2025-01-23
+CUST1278,Ain El Hadjel,2025-05-09,Formulaire Web,Fibre FTTH,Non Traité,
+CUST1279,M'Sila,2025-10-14,Formulaire Web,Service Client,Résolu,2025-10-19
+CUST1280,Ain El Hadjel,2025-04-06,Appel Call Center,Interruption Réseau,Résolu,2025-04-15
+CUST1281,Sidi Aïssa,2025-05-21,Formulaire Web,Service Client,En Cours,
+CUST1282,Bou Saâda,2025-03-21,Appel Call Center,Interruption Réseau,En Cours,
+CUST1283,Ain El Hadjel,2025-10-05,Formulaire Web,Facturation,Résolu,2025-10-11
+CUST1284,Ain El Hadjel,2025-07-14,Appel Call Center,Interruption Réseau,Résolu,2025-07-26
+CUST1285,Bou Saâda,2025-07-06,Appel Call Center,Interruption Réseau,Résolu,2025-07-19
+CUST1286,Bou Saâda,2025-12-04,,ADSL,Résolu,2025-12-13
+CUST1287,Ain El Hadjel,2025-12-16,Appel Call Center,Interruption Réseau,Résolu,2025-12-24
+CUST1288,Bou Saâda,2025-06-15,Plainte Écrite,Facturation,Résolu,2025-06-22
+CUST1289,Sidi Aïssa,2025-09-25,Appel Call Center,ADSL,Résolu,2025-10-06
+CUST1290,M'Sila,2025-04-02,,Fibre FTTH,Résolu,2025-04-16
+CUST1291,M'Sila,2025-09-06,Appel Call Center,ADSL,Résolu,2025-09-10
+CUST1292,M'Sila,2025-11-25,Appel Call Center,Interruption Réseau,Résolu,2025-12-09
+CUST1293,Ain El Hadjel,2025-09-27,Plainte Écrite,Service Client,Résolu,2025-10-07
+CUST1294,Sidi Aïssa,2025-04-24,Appel Call Center,Facturation,En Cours,
+CUST1295,M'Sila,2025-12-02,Appel Call Center,Fibre FTTH,En Cours,
+CUST1296,Ain El Hadjel,2025-11-24,Appel Call Center,Service Client,Résolu,2025-11-25
+CUST1297,Sidi Aïssa,2025-07-08,Plainte Écrite,Service Client,Résolu,2025-07-21
+CUST1298,M'Sila,2025-09-28,Plainte Écrite,Facturation,Résolu,2025-09-29
+CUST1299,M'Sila,2025-04-21,Formulaire Web,ADSL,En Cours,
+CUST1300,M'Sila,2025-09-30,Appel Call Center,Fibre FTTH,En Cours,
+CUST1301,Ain El Hadjel,2025-09-27,Appel Call Center,Fibre FTTH,Résolu,2025-10-08
+CUST1302,Bou Saâda,2025-10-13,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST1303,Ain El Hadjel,2025-11-23,Plainte Écrite,ADSL,Résolu,2025-12-03
+CUST1304,Sidi Aïssa,2025-12-26,Plainte Écrite,Service Client,Résolu,2025-12-31
+CUST1305,Ain El Hadjel,2025-04-03,Appel Call Center,Fibre FTTH,En Cours,
+CUST1306,Ain El Hadjel,2025-12-03,Plainte Écrite,Facturation,Non Traité,
+CUST1307,Bou Saâda,2025-08-15,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1308,Sidi Aïssa,2025-06-16,Formulaire Web,Interruption Réseau,En Cours,
+CUST1309,Sidi Aïssa,2025-06-15,Formulaire Web,Service Client,Résolu,2025-06-25
+CUST1310,Bou Saâda,2025-04-20,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1311,Ain El Hadjel,2025-07-04,Plainte Écrite,Facturation,Résolu,2025-07-12
+CUST1312,Ain El Hadjel,2025-01-18,Formulaire Web,ADSL,Non Traité,
+CUST1313,Sidi Aïssa,2025-09-23,Plainte Écrite,ADSL,Résolu,2025-09-26
+CUST1314,Sidi Aïssa,2025-04-24,Appel Call Center,Facturation,En Cours,
+CUST1315,Bou Saâda,2025-12-20,Formulaire Web,ADSL,Résolu,2025-12-31
+CUST1316,Sidi Aïssa,2025-10-12,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1317,Bou Saâda,2025-08-24,Appel Call Center,ADSL,Résolu,2025-08-30
+CUST1318,Bou Saâda,2025-07-07,Appel Call Center,Facturation,En Cours,
+CUST1319,Bou Saâda,2025-06-03,Appel Call Center,Facturation,Résolu,2025-06-05
+CUST1320,Ain El Hadjel,2025-02-09,Plainte Écrite,Fibre FTTH,Résolu,2025-02-21
+CUST1321,Sidi Aïssa,2025-09-07,Formulaire Web,Fibre FTTH,Résolu,2025-09-21
+CUST1322,M'Sila,2025-01-20,Plainte Écrite,Facturation,Résolu,2025-02-01
+CUST1323,Ain El Hadjel,2025-06-21,Appel Call Center,ADSL,Non Traité,
+CUST1324,Sidi Aïssa,2025-03-03,Formulaire Web,Service Client,Résolu,2025-03-17
+CUST1325,Bou Saâda,2025-01-06,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1326,Ain El Hadjel,2025-09-26,,Facturation,Résolu,2025-09-27
+CUST1327,Sidi Aïssa,2025-03-18,Plainte Écrite,Interruption Réseau,Résolu,2025-03-24
+CUST1328,Bou Saâda,2025-12-11,Appel Call Center,ADSL,En Cours,
+CUST1329,Ain El Hadjel,2025-10-22,Formulaire Web,Interruption Réseau,En Cours,
+CUST1330,M'Sila,2025-05-29,Appel Call Center,Service Client,Résolu,2025-06-11
+CUST1331,Ain El Hadjel,2025-06-22,Appel Call Center,Fibre FTTH,Résolu,2025-06-24
+CUST1332,Ain El Hadjel,2025-10-08,Plainte Écrite,ADSL,En Cours,
+CUST1333,Ain El Hadjel,2025-07-24,Formulaire Web,ADSL,Résolu,2025-08-02
+CUST1334,Ain El Hadjel,2025-03-11,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST1335,Ain El Hadjel,2025-09-07,Plainte Écrite,Fibre FTTH,Non Traité,
+CUST1336,Ain El Hadjel,2025-04-11,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1337,Bou Saâda,2025-05-17,Appel Call Center,ADSL,Résolu,2025-05-30
+CUST1338,Ain El Hadjel,2025-02-15,,Interruption Réseau,En Cours,
+CUST1339,M'Sila,2025-08-05,Plainte Écrite,Service Client,Résolu,2025-08-11
+CUST1340,Sidi Aïssa,2025-06-26,Appel Call Center,Facturation,Résolu,2025-07-06
+CUST1341,M'Sila,2025-06-29,Formulaire Web,Fibre FTTH,Résolu,2025-07-09
+CUST1342,Ain El Hadjel,2025-08-14,Plainte Écrite,Fibre FTTH,Résolu,2025-08-15
+CUST1343,Bou Saâda,2025-03-21,Appel Call Center,Facturation,Non Traité,
+CUST1344,M'Sila,2025-05-05,Appel Call Center,ADSL,En Cours,
+CUST1345,Bou Saâda,2025-06-25,Formulaire Web,ADSL,En Cours,
+CUST1346,M'Sila,2025-08-30,Formulaire Web,Service Client,Résolu,2025-08-31
+CUST1347,Sidi Aïssa,2025-04-19,Appel Call Center,Interruption Réseau,Résolu,2025-04-23
+CUST1348,Sidi Aïssa,2025-11-15,Plainte Écrite,Service Client,Résolu,2025-11-27
+CUST1349,Bou Saâda,2025-07-12,Plainte Écrite,ADSL,Non Traité,
+CUST1350,M'Sila,2025-01-31,Formulaire Web,Fibre FTTH,Résolu,2025-02-05
+CUST1351,Bou Saâda,2025-05-19,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1352,M'Sila,2025-02-04,Formulaire Web,ADSL,Résolu,2025-02-11
+CUST1353,Sidi Aïssa,2025-02-25,Plainte Écrite,Facturation,Résolu,2025-02-26
+CUST1354,Sidi Aïssa,2025-04-29,Plainte Écrite,Service Client,En Cours,
+CUST1355,Ain El Hadjel,2025-06-11,Plainte Écrite,ADSL,Résolu,2025-06-19
+CUST1356,M'Sila,2025-09-14,Appel Call Center,Fibre FTTH,Non Traité,
+CUST1357,Ain El Hadjel,2025-01-21,Plainte Écrite,ADSL,Non Traité,
+CUST1358,Bou Saâda,2025-06-20,Plainte Écrite,Facturation,Résolu,2025-06-28
+CUST1359,Ain El Hadjel,2025-01-10,Plainte Écrite,Fibre FTTH,Résolu,2025-01-16
+CUST1360,Sidi Aïssa,2025-05-01,Formulaire Web,Facturation,Résolu,2025-05-10
+CUST1361,Sidi Aïssa,2025-07-18,Appel Call Center,Facturation,Non Traité,
+CUST1362,M'Sila,2025-04-26,Plainte Écrite,Facturation,Résolu,2025-04-29
+CUST1363,Sidi Aïssa,2025-02-14,Formulaire Web,Fibre FTTH,En Cours,
+CUST1364,Ain El Hadjel,2025-11-17,Plainte Écrite,Interruption Réseau,En Cours,
+CUST1365,Bou Saâda,2025-10-21,Formulaire Web,Fibre FTTH,En Cours,
+CUST1366,Bou Saâda,2025-11-06,Formulaire Web,Facturation,Résolu,2025-11-12
+CUST1367,Ain El Hadjel,2025-04-16,Plainte Écrite,Fibre FTTH,En Cours,
+CUST1368,Bou Saâda,2025-12-17,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1369,Bou Saâda,2025-12-19,Appel Call Center,Facturation,Résolu,2025-12-31
+CUST1370,Bou Saâda,2025-12-02,Formulaire Web,Fibre FTTH,Résolu,2025-12-12
+CUST1371,Bou Saâda,2025-10-13,Formulaire Web,ADSL,Non Traité,
+CUST1372,M'Sila,2025-03-16,Appel Call Center,Facturation,Résolu,2025-03-28
+CUST1373,M'Sila,2025-07-30,Formulaire Web,Service Client,Non Traité,
+CUST1374,Sidi Aïssa,2025-03-19,Formulaire Web,Facturation,Résolu,2025-04-01
+CUST1375,Bou Saâda,2025-04-05,Appel Call Center,Fibre FTTH,Résolu,2025-04-06
+CUST1376,Sidi Aïssa,2025-11-10,Plainte Écrite,Interruption Réseau,Non Traité,
+CUST1377,Bou Saâda,2025-04-29,Plainte Écrite,Fibre FTTH,Résolu,2025-05-10
+CUST1378,M'Sila,2025-12-19,Formulaire Web,ADSL,Résolu,2025-12-31
+CUST1379,Ain El Hadjel,2025-11-06,Appel Call Center,Interruption Réseau,Résolu,2025-11-14
+CUST1380,Sidi Aïssa,2025-09-09,Appel Call Center,Service Client,Résolu,2025-09-17
+CUST1381,Bou Saâda,2025-04-26,Appel Call Center,Fibre FTTH,Résolu,2025-04-27
+CUST1382,Ain El Hadjel,2025-07-31,Appel Call Center,Facturation,Résolu,2025-08-04
+CUST1383,Bou Saâda,2025-04-01,,ADSL,Non Traité,
+CUST1384,Ain El Hadjel,2025-12-19,Plainte Écrite,Service Client,Résolu,2025-12-25
+CUST1385,Ain El Hadjel,2025-07-27,Appel Call Center,Service Client,En Cours,
+CUST1386,M'Sila,2025-06-10,Plainte Écrite,Service Client,Résolu,2025-06-17
+CUST1387,M'Sila,2025-08-20,Plainte Écrite,ADSL,En Cours,
+CUST1388,Ain El Hadjel,2025-09-23,Appel Call Center,Fibre FTTH,Résolu,2025-10-02
+CUST1389,Ain El Hadjel,2025-10-13,,ADSL,Non Traité,
+CUST1390,Ain El Hadjel,2025-04-08,Plainte Écrite,ADSL,Résolu,2025-04-13
+CUST1391,Ain El Hadjel,2025-05-27,Formulaire Web,Facturation,Résolu,2025-06-04
+CUST1392,Bou Saâda,2025-11-10,Formulaire Web,Facturation,Résolu,2025-11-11
+CUST1393,Bou Saâda,2025-02-16,Formulaire Web,Service Client,Résolu,2025-02-28
+CUST1394,M'Sila,2025-12-23,Appel Call Center,Interruption Réseau,Résolu,2025-12-31
+CUST1395,Bou Saâda,2025-06-15,Formulaire Web,Service Client,Résolu,2025-06-23
+CUST1396,M'Sila,2025-10-30,Appel Call Center,Service Client,En Cours,
+CUST1397,Bou Saâda,2025-05-09,Formulaire Web,ADSL,Résolu,2025-05-15
+CUST1398,Bou Saâda,2025-02-16,Plainte Écrite,ADSL,Résolu,2025-02-18
+CUST1399,Ain El Hadjel,2025-02-13,Plainte Écrite,Facturation,En Cours,
+CUST1400,Ain El Hadjel,2025-11-10,Plainte Écrite,Interruption Réseau,En Cours,
