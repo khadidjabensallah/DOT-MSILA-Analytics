@@ -1,1 +1,42 @@
-node_modules/\n*__pycache__/\n*.swp\ninsight-alg-dash/\n.env
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.env
+.venv
+
+# Agent
+.agents/
+.claude/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Ide / system
+.DS_Store
+.vscode/
+
+# Joblib output is part of project for demonstration?
+# Wait, model.joblib and encoder.joblib are needed for the backend to run!
+# We will NOT ignore them, they are small enough (6.7MB & 3KB)
