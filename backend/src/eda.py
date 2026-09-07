@@ -52,8 +52,8 @@ def status_breakdown_by_column(df, column_name):
 if __name__ == "__main__":
     import os
     
-    workspace_dir = "/home/bjservices/Desktop/internship"
-    raw_path = os.path.join(workspace_dir, "plaintes_clients_raw.csv")
+    backend_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    raw_path = os.path.join(backend_dir, "plaintes_clients_raw.csv")
     
     if os.path.exists(raw_path):
         df = pd.read_csv(raw_path)

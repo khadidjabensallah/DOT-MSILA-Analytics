@@ -22,12 +22,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load global variables
-workspace_dir = "/home/bjservices/Desktop/internship"
-raw_path = os.path.join(workspace_dir, "plaintes_clients_raw.csv")
-
-encoder_path = os.path.join(workspace_dir, "encoder.joblib")
-model_path = os.path.join(workspace_dir, "model.joblib")
+# Load global variables (paths relative to backend/)
+backend_dir = os.path.dirname(os.path.abspath(__file__))
+raw_path = os.path.join(backend_dir, "plaintes_clients_raw.csv")
+encoder_path = os.path.join(backend_dir, "encoder.joblib")
+model_path = os.path.join(backend_dir, "model.joblib")
 
 # Try to load models at startup
 try:

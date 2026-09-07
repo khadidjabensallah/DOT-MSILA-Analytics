@@ -13,11 +13,11 @@ from eda import calculate_kpis
 # Config
 st.set_page_config(page_title="DOT M'SILA Complaints Analytics", layout="wide", page_icon="📶")
 
-# Variables
-workspace_dir = "/home/bjservices/Desktop/internship"
-raw_path = os.path.join(workspace_dir, "plaintes_clients_raw.csv")
-encoder_path = os.path.join(workspace_dir, "encoder.joblib")
-model_path = os.path.join(workspace_dir, "model.joblib")
+# Variables (paths relative to backend/)
+backend_dir = os.path.dirname(os.path.abspath(__file__))
+raw_path = os.path.join(backend_dir, "plaintes_clients_raw.csv")
+encoder_path = os.path.join(backend_dir, "encoder.joblib")
+model_path = os.path.join(backend_dir, "model.joblib")
 
 @st.cache_data
 def load_data():

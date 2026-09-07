@@ -1,42 +1,28 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
-venv/
-.env
-.venv
+# IDE / system
+.DS_Store
+.vscode/
+.idea/
 
 # Agent
 .agents/
 .claude/
 
-# Node
-node_modules/
-dist/
-dist-ssr/
-*.local
+# OS
+*.swp
+*.swo
+*~
 
-# Ide / system
-.DS_Store
-.vscode/
+# Environment files
+.env
+.env.local
+.env.*.local
 
-# Joblib output is part of project for demonstration?
-# Wait, model.joblib and encoder.joblib are needed for the backend to run!
-# We will NOT ignore them, they are small enough (6.7MB & 3KB)
+# Render / Deploy
+render.yaml
+
+# Python cache
+__pycache__/
+
+# Monorepo structure - backend and frontend have their own .gitignore files
+# See backend/.gitignore and frontend/.gitignore for specific rules
+

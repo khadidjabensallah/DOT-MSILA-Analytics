@@ -65,8 +65,8 @@ def evaluate_model(y_test, y_pred, model_name="Model"):
     print("-" * 30)
 
 if __name__ == "__main__":
-    workspace_dir = "/home/bjservices/Desktop/internship"
-    raw_path = os.path.join(workspace_dir, "plaintes_clients_raw.csv")
+    backend_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    raw_path = os.path.join(backend_dir, "plaintes_clients_raw.csv")
     
     if not os.path.exists(raw_path):
         print("Raw dataset not found.")
@@ -102,12 +102,12 @@ if __name__ == "__main__":
     
     # Fit the preprocessor separately to save as encoder.joblib
     preprocessor.fit(X_train)
-    encoder_path = os.path.join(workspace_dir, 'encoder.joblib')
+    encoder_path = os.path.join(backend_dir, 'encoder.joblib')
     joblib.dump(preprocessor, encoder_path)
     
     # Note: RF performed inside the pipeline. Let's extract the trained classifier to save as model.joblib
     rf_classifier = rf.named_steps['classifier']
-    model_path = os.path.join(workspace_dir, 'model.joblib')
+    model_path = os.path.join(backend_dir, 'model.joblib')
     joblib.dump(rf_classifier, model_path)
     
     print(f"Saved preprocessor to {encoder_path}")

@@ -105,9 +105,9 @@ if __name__ == "__main__":
     print("Generating synthetic data...")
     df_raw, df_predict = generate_synthetic_data(1500)
     
-    workspace_dir = "/home/bjservices/Desktop/internship"
-    raw_path = os.path.join(workspace_dir, "plaintes_clients_raw.csv")
-    predict_path = os.path.join(workspace_dir, "plaintes_nouvelles_a_predire.csv")
+    backend_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    raw_path = os.path.join(backend_dir, "plaintes_clients_raw.csv")
+    predict_path = os.path.join(backend_dir, "plaintes_nouvelles_a_predire.csv")
     
     df_raw.to_csv(raw_path, index=False, encoding='utf-8')
     df_predict.to_csv(predict_path, index=False, encoding='utf-8')
