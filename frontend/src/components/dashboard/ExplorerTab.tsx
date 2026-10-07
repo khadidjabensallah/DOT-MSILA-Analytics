@@ -31,17 +31,33 @@ const priorityTint: Record<string, string> = {
 };
 
 const ALL = "Tous";
+const COMPLAINTS_PAGE_SIZE = 100;
+
+async function fetchAllComplaints() {
+  const headers = { "Bypass-Tunnel-Reminder": "true" };
+  let skip = 0;
+  let total = 0;
+  const data: Record<string, unknown>[] = [];
+
+  do {
+    const res = await fetch(
+      `${API_BASE}/api/complaints?skip=${skip}&limit=${COMPLAINTS_PAGE_SIZE}`,
+      { headers },
+    );
+    if (!res.ok) throw new Error("Failed to fetch");
+    const page = await res.json();
+    total = page.total as number;
+    data.push(...(page.data as Record<string, unknown>[]));
+    skip += COMPLAINTS_PAGE_SIZE;
+  } while (skip < total);
+
+  return { total, data };
+}
 
 export function ExplorerTab() {
   const { data, isLoading } = useQuery({
     queryKey: ["complaints"],
-    queryFn: async () => {
-      const res = await fetch(`${API_BASE}/api/complaints?limit=1000`, {
-        headers: { "Bypass-Tunnel-Reminder": "true" }
-      });
-      if (!res.ok) throw new Error("Failed to fetch");
-      return res.json();
-    },
+    queryFn: fetchAllComplaints,
   });
 
   const [q, setQ] = useState("");
@@ -89,7 +105,7 @@ export function ExplorerTab() {
           <div className="min-w-0">
             <CardTitle className="text-base font-semibold tracking-tight">Explorateur des réclamations</CardTitle>
             <CardDescription className="text-xs">
-              {rows.length} dossier(s) affiché(s) sur {rawTickets.length}
+              {rows.length} dossier(s) affiché(s) sur {data?.total ?? rawTickets.length}
             </CardDescription>
           </div>
           <Button variant="outline" size="sm" className="shrink-0">
